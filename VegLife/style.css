@@ -65,6 +65,11 @@ nav{
     font-family: 'Poppins', sans-serif;
 }
 
+body{
+    background-color:#71a95a;
+
+}
+
 .logo h4{
     color: rgb(223, 223, 223);
     text-transform: uppercase;
@@ -74,7 +79,8 @@ nav{
 }
 
 .logo img{
-    max-width: 80px;
+    max-width:150px;
+    max-height: 100px;
     margin-top: 10px;
 }
 
@@ -105,6 +111,47 @@ nav{
     height: 3px;
     background-color: rgb(223, 223, 223);
     margin: 5px;
+}
+
+.dropbox li{
+    background-color: white;
+}
+
+.HomeImage img{
+    position: relative;
+    left: 19%;
+    top: 1%;
+    max-width:800px;
+    max-height: 800px;
+    }
+
+.HomeSalada img{
+    position: absolute;
+    left: 70%;
+    top: 5%;
+    max-width:200;
+    max-height: 300px;
+    }
+
+.HomeSalada2 img{
+    position: absolute;
+    left: 2%;
+    top: 35%;
+    max-width:220;
+    max-height: 220px;
+    transform: rotate(15deg);
+}
+
+.HomePoint img{
+    position: absolute;
+    left: 6%;
+    top: 15%;
+    max-width:190;
+    max-height: 190px;
+}
+
+.dropbox a{
+    color: black;
 }
 
 @media screen and (max-width:768px){
