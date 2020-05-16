@@ -23,7 +23,7 @@ ul li a{
 }
 
 
-/*nav bar-serviços dropdown*/
+/*nav bar-serviços dropbox*/
 
 .nav-links ul{
     position: absolute;
@@ -39,11 +39,18 @@ ul li ul li{
 ul li ul{
     display: none;
 }
-ul li:hover ul{
+
+
+ul li:hover ul{ /*background dropbox*/
     display: block;
-    background-color: #71a954;
+    background-color: white;
     z-index: 100;
 }
+
+ul li:hover ul li a{ /*letra dropbox*/
+    color: black;
+}
+
 
 /*fim*/
 
@@ -65,10 +72,7 @@ nav{
     font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background-color:#71a95a;
 
-}
 
 .logo h4{
     color: rgb(223, 223, 223);
@@ -113,9 +117,8 @@ body{
     margin: 5px;
 }
 
-.dropbox li{
-    background-color: white;
-}
+
+/*adições leo*/
 
 .HomeImage img{
     position: relative;
@@ -123,15 +126,15 @@ body{
     top: 1%;
     max-width:800px;
     max-height: 800px;
-    }
+}
 
 .HomeSalada img{
     position: absolute;
     left: 70%;
-    top: 5%;
+    top: 10%;
     max-width:200;
     max-height: 300px;
-    }
+}
 
 .HomeSalada2 img{
     position: absolute;
@@ -150,9 +153,165 @@ body{
     max-height: 190px;
 }
 
-.dropbox a{
-    color: black;
+body{
+    background-color:#71a95a;
+
 }
+
+/*adições leo*/
+
+/*Responsividade imagens*/
+
+@media screen and (max-width:1460px)
+{
+    .HomeImage img{
+        left: 17%;
+    }
+}
+
+@media screen and (max-width:1360px)
+{
+    .HomeImage img{
+        left: 14%;
+    }
+}
+
+@media screen and (max-width:1280px)
+{
+    .HomeImage img{
+        left: 10%;
+    }
+
+    .HomePoint{
+        display: none;
+    }
+}
+
+@media screen and (max-width:1210px)
+{
+    .HomeSalada img{
+        left: 75%;
+    }
+
+}
+
+@media screen and (max-width:1125px)
+{
+    .HomeSalada img{
+        max-width: 250px;
+        top: 16%;
+    }
+
+    .HomeImage img{
+        max-width: 700px;
+        left: 14%;
+    }
+
+    .HomeSalada2 img{
+        max-width: 180px;
+        top: 30%;
+    }
+}
+
+@media screen and (max-width:1020px)
+{
+    .HomeImage img{
+        max-width: 600px;
+        left: 17%;
+    }
+
+    .HomeSalada2 img{
+        max-width: 160px;
+        left: 5%;
+    }
+}
+
+@media screen and (max-width:1000px)
+{
+    .HomeSalada img{
+        display: none;
+    }
+
+    .HomeSalada2 img{
+        display: none;
+    }
+
+    .HomeImage img{
+        max-width: 700px;
+        left: 15%;
+    }
+
+}
+
+@media screen and (max-width:950px)
+{
+    .HomeImage img{
+        left: 13%;
+    }
+}
+
+@media screen and (max-width:900px)
+{
+    .HomeImage img{
+        left: 10%;
+    }
+}
+
+@media screen and (max-width:850px)
+{
+    .HomeImage img{
+        left: 7%;
+    }
+}
+
+@media screen and (max-width:800px)
+{
+    .HomeImage img{
+        left: 3%;
+    }
+}
+
+@media screen and (max-width:750px)
+{
+    .HomeImage img{
+        left: 0;
+    }
+}
+
+@media screen and (max-width:700px)
+{
+    .HomeImage img{
+        max-width: 400px;
+        left: 18%;
+    }
+}
+
+@media screen and (max-width:650px)
+{
+    .HomeImage img{
+        max-width: 400px;
+        left: 15%;
+    }
+}
+
+@media screen and (max-width:600px)
+{
+    .HomeImage img{
+        max-width: 400px;
+        left: 8%;
+    }
+}
+
+@media screen and (max-width:470px)
+{
+    .HomeImage img{
+        max-width: 200px;
+    }
+}
+
+
+/*fim*/
+
 
 @media screen and (max-width:768px){
     body{
@@ -162,7 +321,7 @@ body{
         position: absolute;
         right: 0px;
         height: 80vh;
-        top: 12vh;
+        top: 8vh;
         background-color:#007944;
         display: flex;
         flex-direction: column;
