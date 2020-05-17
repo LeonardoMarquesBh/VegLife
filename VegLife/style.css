@@ -9,9 +9,17 @@ img{
     margin: 10px;
 }
 
+/*ajustes pag receitas*/
+
 #corpo{
     margin: 10px;
 }
+
+.tab-content{
+    margin: 10px;
+}
+
+/*fim*/
 
 ul li a{
     padding: 10px 20px;
