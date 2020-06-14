@@ -1,0 +1,33 @@
+.box-receita{
+    border-style: solid;
+    border-color: white;
+    color: dimgray;
+    position: relative;
+    min-width: 350px;
+    max-width: 400px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+}
+
+.box-receita .thumbnail{
+    width: 240px;
+    height: 150px;
+    margin: 5px;
+}
+
+.box-receita .titulo{
+    margin: 5px;
+}
+
+.box-receita .creditos{
+    margin: 5px;
+}
+
+.box-receita .tipo{
+    margin: 5px;
+}
+
+.box-receita .btnModal{
+    margin: 5px;
+}
