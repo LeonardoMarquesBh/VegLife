@@ -1,0 +1,88 @@
+[
+  {
+    "titulo": "Cookie de chocolate",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Vegano",
+    "link": ""
+  },
+  {
+    "titulo": "Justin Dean",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Muscatine, IA"
+  },
+  {
+    "titulo": "Nora Blake",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Seattle, WA"
+  },
+  {
+    "titulo": "Russell Fox",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Albuquerque, NM"
+  },
+  {
+    "titulo": "Daryl Bradley",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Buckeystown, MD"
+  },
+  {
+    "titulo": "Benjamin Gonzales",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Atlanta, GA"
+  },
+  {
+    "titulo": "Viola Francis",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Zanesville, OH"
+  },
+  {
+    "titulo": "Reginald Benson",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Gilbert, AZ"
+  },
+  {
+    "titulo": "Glenda Ray",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Baltimore, MD"
+  },
+  {
+    "titulo": "Paula Vargas",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Baltimore, MD"
+  },
+  {
+    "titulo": "Mark Armstrong",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Hallandale Beach, FL"
+  },
+  {
+    "titulo": "Jaime Campbell",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Zanesville, OH"
+  },
+  {
+    "titulo": "Mike Beck",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Garner, NC"
+  },
+  {
+    "titulo": "Ann Lowe",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Cabin John, MD"
+  },
+  {
+    "titulo": "Ryan Wolfe",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Los Angeles, CA"
+  },
+  {
+    "titulo": "Dwayne Gutierrez",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "San Jose, CA"
+  },
+  {
+    "titulo": "Bill Burke",
+    "imagem": "imgs/doce1.jpg",
+    "tipo": "Bakersfield, CA"
+  }
+]
