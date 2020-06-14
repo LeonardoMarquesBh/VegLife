@@ -468,10 +468,83 @@ a.quicklink {
     margin: 5px;
 }
 
-.btn{
-    background-color: #71a954;
+.box-receita #btnModal{
+    background-color: #007944;
+    width: 80px;
+    height: 30px;
+    border-style: none;
 }
 
-.btn a{
+.box-receita #btnModal a{
     color: white;
+    font-size: 13px;
 }
+
+
+/*pag receitas*/
+
+/*box-receitas*/
+
+.box-receita{
+    position: relative;
+    min-width: 350px;
+    max-width: 450px;
+    min-height: 210px;
+    border-style: solid;
+    border-color: #007944;
+    margin: 10px;
+    background-color: #93b984;
+}
+
+.box-receita .thumbnail{
+    width: 240px;
+    height: 150px;
+    margin: 5px;
+    float: left;
+}
+
+.box-receita .titulo{
+    margin: 5px;
+    color: black;
+}
+
+.box-receita .creditos{
+    color: black;
+}
+
+.box-receita .tipo{
+    margin-top: 5px;
+    color: black;
+}
+
+.box-receita .btnModal{
+    background-color: white;
+}
+
+/*Pesquisa*/
+
+#buscaReceitas #btnPesquisa{
+    color: black;
+    background-color: white;
+    width: 40px;
+}
+
+#buscaReceitas{
+    float: right;
+}
+
+/*categorias*/
+
+#categorias button{
+    width: 120px;
+    color: white;
+    background-color: #007944;
+    margin: 5px;
+    font-size: 15px;
+}
+
+#linha{
+    background-color: white;
+    height: 2px;
+}
+

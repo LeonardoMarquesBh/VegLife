@@ -61,173 +61,25 @@
     </nav>
 
     <div id="corpo">
-        <ul class="nav nav-tabs" role="tablist" id="myTab">
-            <li class="nav-item"> <a class="nav-link active" data-toggle="tab" href="#tudo" role="tab">Tudo</a> </li>
-            <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#salgados" role="tab">Salgados</a> </li>
-            <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#doces" role="tab">Doces</a> </li>
-            <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#videos" role="tab">Videos</a> </li>
-        </ul>
 
-
-        <div class="tab-content sidebar-tabing">
-
-
-            <div class="tab-pane active" id="tudo" role="tab-tudo">
-
-                <div class="card mb-3" style="max-width: 500px;">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="..." class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <a href="#" class="card-title">tudo</a>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mb-3" style="max-width: 500px;">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="..." class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <a href="#" class="card-title">Card title</a>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
+        <div id="categorias">
+            <button id="btnTudo">TUDO</button>
+            <button id="btnSalgados">SALGADOS</button>
+            <button id="btnDoces">DOCES</button>
+            <button id="btnVeganas">VEGANAS</button>
+            <button id="btnVegetarianas">VEGETARIANAS</button>
+            <button id="btnVideos">VIDEOS</button>
+            <div id="buscaReceitas">
+                <input id="txtPesquisa" class="inputBusca" type="text" placeholder="Pesquise por receitas...">
+                <button id="btnPesquisa">GO</button>
             </div>
-
-            <div class="tab-pane" id="salgados" role="tab-salgados">
-
-                <div class="card mb-3" style="max-width: 500px;">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="..." class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <a href="#" class="card-title">salgado</a>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="card mb-3" style="max-width: 500px;">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img src="..." class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <a href="#" class="card-title">Card title</a>
-                                <p class="card-text">This is a wider card with supporting text below as a natural
-                                    lead-in to additional content. This content is a little bit longer.</p>
-                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="tab-pane" id="doces" role="tab-doces">
-
-                <div class="card mb-3" style="max-width: 500px;">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                            <img style="max-width: 300px;" src="imgs/doce1.jpg" class="card-img" alt="...">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title">COOKIE VEGANO</h5>
-                                <button type="button" class="btn" data-toggle="modal"
-                                    data-target="#exampleModal">
-                                    <a href="#" class="card-text">Ver receita</a>
-                                </button>
-
-                                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog"
-                                    aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog modal-dialog-scrollable">
-                                        <div class="modal-content">
-                                            <div class="modal-header">
-                                                <h5 class="modal-title" id="exampleModalLabel">Cookie Vegano</h5>
-                                                <button type="button" class="close" data-dismiss="modal"
-                                                    aria-label="Close">
-                                                    <span aria-hidden="true">&times;</span>
-                                                </button>
-                                            </div>
-                                            <div class="modal-body">
-                                                <img style="max-width: 200px;" src="imgs/doce1.jpg" alt="">
-                                                <h5>INGREDIENTES</h5>
-                                                <ul>
-                                                    <li>4 colheres (sopa) de açúcar mascavo</li>
-                                                    <li>2 colheres (sopa) de leite de coco</li>
-                                                    <li>2 colheres (sopa) de óleo de coco</li>
-                                                    <li>1/4 de colher (chá) de essência de baunilha</li>
-                                                    <li>1 pitada de sal</li>
-                                                    <li>8 colheres (sopa) de farinha de trigo</li>
-                                                    <li>1/2 colher (chá) de fermento em pó</li>
-                                                    <li>chocolate amargo vegano picado a gosto</li>
-                                                </ul>
-                                                <h5>Modo de preparo</h5>
-                                                <ol>
-                                                    <li>Em uma tigela, misture o açúcar mascavo, o leite de coco, o óleo de coco, a essência de baunilha e o sal.</li>
-                                                    <li>Acrescente a farinha de trigo e o fermento, misture bem.</li>
-                                                    <li>Por último, adicione o chocolate amargo e misture.</li>
-                                                    <li>Molde os cookies e coloque-os em uma forma.</li>
-                                                    <li>Deixe na geladeira por 20 minutos.</li>
-                                                    <li>Em seguida, leve ao forno preaquecido (200° C) por cerca de 20 minutos.</li>
-                                                </ol>
-                                            </div>
-                                            <div class="modal-footer">
-                                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <p class="card-text"><small class="text-muted">✔️Vegano</small></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                
-
-            </div>
-
-            <div class="tab-pane active" id="videos" role="tab-videos">
-
-                <div class="col-sm-4 col-md-5 col-lg-3">
-                    <h5>Cinnamon Roll Vegano</h5>
-                    <div class="vid">
-                        <div class="video-block">
-                            <div class="embed-responsive embed-responsive-4by3">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/R9sFooFeqaE"
-                                    frameborder="0"
-                                    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                    allowfullscreen></iframe>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-
         </div>
+
+        <div id="linha"></div>
+        
+        <div id="tela">
+        </div>
+
     </div>
 
     </div>
