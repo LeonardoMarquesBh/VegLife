@@ -565,3 +565,12 @@ a.quicklink {
     width: 300px;
     margin: 10px;
 }
+
+/*CSS para a página de restaurantes*/
+.titulorest{
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+};
