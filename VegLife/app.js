@@ -14,8 +14,6 @@ const navSlide = () => {
 
 navSlide();
 
-
-
 var dados = {
     "receitas": [
         {
@@ -47,8 +45,8 @@ var dados = {
             </ol>`,
         },
         {
-            "id":2,
-            "titulo": "Sorvete de Chocolate",
+            "id": 2,
+            "titulo": "Sorvete de chocolate",
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
@@ -86,8 +84,8 @@ var dados = {
             </ol>`,
         },
         {
-            "id":3,
-            "titulo": "Quibe de Forno",
+            "id": 3,
+            "titulo": "Quibe de forno",
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
@@ -131,12 +129,12 @@ var dados = {
             </ol>`
         },
         {
-            "id":4,
+            "id": 4,
             "titulo": "Mousse de jabuticaba",
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
-            "texto":`
+            "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
                 <li>3 xícaras de jabuticaba</li>
@@ -162,13 +160,241 @@ var dados = {
                     ambiente. Depois leve a geladeira por aproximadamente 4 horas, 
                     ou até a musse ficar gelada e consistente.</li>
             </ol>`
-            
+
+        },
+        {
+            "id": 5,
+            "titulo": "Danette de chocolate",
+            "imagem": "imgs/doce4.jpg",
+            "fonte": "S.O.S Intolerante",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de castanha-de-caju (de molho em água por 8h)</li>
+                <li>2 xícaras de água</li>
+                <li>2 colheres (sopa) de cacau em pó</li>
+                <li>2 colheres (sopa) de óleo de coco</li>
+                <li>1 colher (chá) de essência de baunilha</li>
+                <li>13 a 4 colheres (sopa) de melado</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Dispense a água do molho da castanha e lave-a bem. Junte todos os ingredientes no liquidificador até homogeneizar (se achar muito grosso, pode acrescentar um pouquinho a mais de água). Disponha em potinhos e leve a gelar até firmar, cerca de 8h.</p>`
+        },
+        {
+            "id": 6,
+            "titulo": "Estrogonofe de carne de soja",
+            "imagem": "imgs/salgado2.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de chá de carne de soja</li>
+                <li>1 xícara de chá creme de leite</li>
+                <li>1 lata de purê de tomate</li>
+                <li>1/2 xícara de chá de mostarda</li>
+                <li>1/2 xícara chá de água</li>
+                <li>2 colheres sopa de óleo</li>
+                <li>1/2 cebola ralada</li>
+                <li>Sal e pimenta do reino a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela coloque o óleo.</li>
+                <li>E em seguida frite a cebola.</li>
+                <li>Junte o purê de tomate, a mostarda, a água e os temperos.Misture bem.</li>
+                <li>Junte a seguir a carne de soja, deixe cozinhar em fogo baixo até engrossar.</li>
+                <li>Desligue o fogo, acrescente o creme de leite e misture bem.Coloque na travessa e sirva.</li>
+            </ol>`
+        },
+        {
+            "id": 7,
+            "titulo": "Mousse de Blueberry",
+            "imagem": "imgs/doce5.jpg",
+            "fonte": "Pati Bianco",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de leite de coco (ou outro leite vegetal cremoso de sua preferência)</li>
+                <li>1 colher de sopa de araruta para engrossar (pode ser substituída por fécula de batata, amido de milho ou até tapioca!)</li>
+                <li>1/2 xícara de mirtilos</li>
+                <li>1 colher de café de essência de baunilha</li>
+                <li>Stévia a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Misture a araruta no leite até dissolver completamente. 
+            Bata a com os mirtilos, a essência e a stévia no liquidificador 
+            até obter a consistência que você preferir. Eu prefiro bater menos 
+            para deixar alguns pedacinhos da fruta. Coloque nas tacinhas e deixe
+            na geladeira por uns 20 minutos para ficar mais consistente. 
+            Sobremesa, check!
+            </p>
+            <h5>Observações</h5>
+            <p>Usei a araruta porque o mirtilo solta água e deixa o leite menos cremoso. Se for usar outro ingrediente em pó como cacau, por exemplo, pode descartá-la.</p>`
+        },
+        {
+            "id": 8,
+            "titulo": "Pappardelle com shitake",
+            "imagem": "imgs/salgado3.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>Massa fresca da sua preferência</li>
+                <li>1 Colher de sopa de sal (para a água de cozimento do macarrão)</li>
+                <li>1 Colher de sopa de óleo ou azeite (para o cozimento do macarrão)</li>
+                <li>Água o quanto baste para o cozimento da massa</li>
+                <li>200g de shitake fresco</li>
+                <li>1/2 Copo de shoyu</li>
+                <li>3 Dentes de alho</li>
+                <li>3 Colheres de sopa de azeite ou manteiga vegetal</li>
+                <li>Salsinha a gosto (usei desidratada)</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece preparando a sua massa fresca, após fazer a massa a embrulhe em um plástico filme e deixe descansando enquanto faz o molho de shitake.</li>
+                <li>Para fazer o shitake descasque e pique o alho, coloque-o em uma panela com azeite ou manteiga vegetal e ligue o fogo baixo para dourar.Enquanto o alho doura é hora de cortar o shitake em cubinhos.</li>
+                <li>Assim que o alho estiver dourado coloque o shitake na panela e misture bem para encorporar o sabor ao cogumelo.</li>
+                <li>Acrescente o shoyu na panela, em fogo baixo deixe cozinhar por 4 minutos e em seguida desligue o fogo acrescentando a salsinha.</li>
+                <li>Em uma bancada abra a sua massa, você pode fazer isso com o cilindro de massas ou com um rolo, se for abrir com o rolo de massas lembre-se de enfarinhar a sua bancada.</li>
+                <li>Com a ajuda de uma carretilha ou faca corte as tiras do seu pappardelle deixando-o com cerca de 2 dedos de largura.</li>
+                <li>Enquanto você estiver cortando a massa é interessante colocar bastante água em uma panela no fogo, assim ao terminar de cortar a massa a água estará fervendo pronta para receber o macarrão!</li>
+                <li>Ao terminar de cortar coloque um pouco de sal na água que já deve estar fervendo e um fio de azeite ou óleo, em seguida adicione o pappardelle na panela.</li>
+                <li>Ao colocar o pappardelle na água fervente conte 3 minutos, esse é o tempo para que a massa fique ao dente, tire a massa do fogo e escorra a água.</li>
+                <li>Misture o pappardelle com o shitake, você pode religar o fogo da panela em que fez o shitake para aquecer o macarrão.</li>
+            </ol>`
+        },
+        {
+            "id": 9,
+            "titulo": "Nhoque de banana da terra",
+            "imagem": "imgs/salgado4.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>5 Bananas da terra</li>
+                <li>2 Xícaras de farinha – Usei a de arroz mas você pode usar amido de milho, farinha de grão de bico ou outra de sua preferência.</li>
+                <li>1 Colher de chá de sal</li>
+                <li>Azeite o quanto baste para selarÁgua o quanto baste para o cozimento da massa</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece colocando as bananas ainda com casca em um tabuleiro, leve-as para assar em forno alto por uns 15 minutos ou até que a casca fique completamente escura.</li>
+                <li>Depois descasque as bananas e coloque-as num recipiente, amasse-as com a ajuda de um garfo para formar um purê homogêneo.</li>
+                <li>Acrescente o sal e uma xícara e meia da sua farinha, mexa bem até obter uma mistura encorpada e consistente.</li>
+                <li>Polvilhe um pouco do restante da farinha sobre uma bancada, é hora de colocar uma parte da massa do nosso nhoque de banana da terra sobre ela e com cuidado e delicadeza formar um rolinho, não é preciso sovar ou acrescentar mais farinha dentro da ‘massa’, apenas enrole com o auxilio da farinha da bancada.</li>
+                <li>Corte o rolinho em pedaços iguais e vá reservando, repita o processo até acabar a massa.</li>
+                <li>Com todo o nhoque cortado é hora de acrescentar azeite numa frigideira e selar os nhoques até que dourem em fogo médio, é bom usar uma frigideira antiaderente para que não grudem.</li>
+            </ol>`
+        },
+        {
+            "id": 10,
+            "titulo": "Suflê de chuchu",
+            "imagem": "imgs/salgado5.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>4 chuchus cozidos</li>
+                <li>1 xícara de leite</li>
+                <li>1 colher (sopa) de manteiga</li>
+                <li>1 colher (sopa) de farinha de trigo</li>
+                <li>4 gemas</li>
+                <li>4 colheres (sopa) de queijo parmesão ralado</li>
+                <li>sal a gosto</li>
+                <li>pimenta-do-reino a gosto</li>
+                <li>4 claras</li>
+                <li>50 g de queijo parmesão ralado</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma tigela, amasse os chuchus cozidos.</li>
+                <li>Passe por uma peneira para retirar o líquido, reserve.</li>
+                <li>No liquidificador, bata o leite com a manteiga e a farinha de trigo.</li>
+                <li>Adicione o chuchu reservado, as gemas, o queijo parmesão ralado, o sal e a pimenta-do-reino, bata bem.</li>
+                <li>À parte, bata as claras em neve.</li>
+                <li>Em outra tigela, junte a mistura do liquidificador com as claras em neve.</li>
+                <li>Mexa delicadamente.</li>
+                <li>Transfira para uma tigela untada com manteiga e enfarinhada.</li>
+                <li>Coloque o queijo parmesão ralado e leve ao forno preaquecido (180° C), por cerca de 25 minutos.</li>
+            </ol>`
+        },
+        {
+            "id": 11,
+            "titulo": "Bolo de cenoura",
+            "imagem": "imgs/doce6.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 cenouras em pedaços</li>
+                <li>suco de 2 laranjas</li>
+                <li>1/2 copo de óleo</li>
+                <li>1 copo de açúcar</li>
+                <li>3 copos de farinha de trigo</li>
+                <li>1 colher de sopa de fermento químico</li>
+            </ul>
+            <h7>Cobertura:</h7>
+            <ul>
+                <li>200 ml de leite de coco</li>
+                <li>7 colheres de sopa de cacau em pó</li>
+                <li>7 colheres de sopa de açucar</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>No liquidificador bata todos os ingredientes, exceto a farinha de trigo e o fermento, que devem ser colocados em um recipiente à parte, e misturados com uma colher de pau aos ingredientes já batidos do liquidificador.</li>
+                <li>Unte uma forma com óleo e polvilhe farinha de trigo.</li>
+                <li>Despeje a massa do bolo que deve estar uniforme.</li>
+                <li>Leve ao forno, preaquecido por aproximadamente 45 minutos.</li>
+            </ol>
+            <h7>Cobertura:</h7>
+            <ol>
+                <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
+                <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
+            </ol>` 
+        },
+        {
+            "id": 12,
+            "titulo": "Abobrinha recheada",
+            "imagem": "imgs/salgado6.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 Abobrinhas</li>
+                <li>100g de shitake</li>
+                <li>Azeite o quanto baste</li>
+                <li>2 Dentes de alho</li>
+                <li>2 Colheres de sopa de shoyu</li>
+                <li>Temperos em pó a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece ligando o forno a 180°C para pré-aquecer.</li>
+                <li>Lave bem as abobrinhas e partindo-as ao meio no sentido do comprimento.</li>
+                <li>Com uma colher remova o ‘miolo’ da abobrinha, é a parte que ficam as sementes e que é mais macia. Reserve essa parte do miolo da abobrinha.</li>
+                <li>Descasque e pique o alho, coloque-o em uma panela para dourar com um fio de azeite, enquanto você pica o miolo da abobrinha.</li>
+                <li>Acrescente o miolo da abobrinha picada na panela com o alho e deixe em fogo baixo, enquanto cozinha pique o shitake e logo em seguida acrescente-o na panela.</li>
+                <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
+                <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
+                <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
+            </ol>` 
         }
     ],
     "salgados": [
         {
-            "id":1,
-            "titulo": "Quibe de Forno",
+            "id": 1,
+            "titulo": "Quibe de forno",
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
@@ -210,11 +436,158 @@ var dados = {
                 <li>Leve ao forno pré-aquecido e asse em fogo médio por cerca de 20 a 30 
                     minutos.</li>
             </ol>`
+        },
+        {
+            "id": 2,
+            "titulo": "Estrogonofe de carne de soja",
+            "imagem": "imgs/salgado2.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de chá de carne de soja</li>
+                <li>1 xícara de chá creme de leite</li>
+                <li>1 lata de purê de tomate</li>
+                <li>1/2 xícara de chá de mostarda</li>
+                <li>1/2 xícara chá de água</li>
+                <li>2 colheres sopa de óleo</li>
+                <li>1/2 cebola ralada</li>
+                <li>Sal e pimenta do reino a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela coloque o óleo.</li>
+                <li>E em seguida frite a cebola.</li>
+                <li>Junte o purê de tomate, a mostarda, a água e os temperos.Misture bem.</li>
+                <li>Junte a seguir a carne de soja, deixe cozinhar em fogo baixo até engrossar.</li>
+                <li>Desligue o fogo, acrescente o creme de leite e misture bem.Coloque na travessa e sirva.</li>
+            </ol>`
+        },
+        {
+            "id": 3,
+            "titulo": "Pappardelle com shitake",
+            "imagem": "imgs/salgado3.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>Massa fresca da sua preferência</li>
+                <li>1 Colher de sopa de sal (para a água de cozimento do macarrão)</li>
+                <li>1 Colher de sopa de óleo ou azeite (para o cozimento do macarrão)</li>
+                <li>Água o quanto baste para o cozimento da massa</li>
+                <li>200g de shitake fresco</li>
+                <li>1/2 Copo de shoyu</li>
+                <li>3 Dentes de alho</li>
+                <li>3 Colheres de sopa de azeite ou manteiga vegetal</li>
+                <li>Salsinha a gosto (usei desidratada)</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece preparando a sua massa fresca, após fazer a massa a embrulhe em um plástico filme e deixe descansando enquanto faz o molho de shitake.</li>
+                <li>Para fazer o shitake descasque e pique o alho, coloque-o em uma panela com azeite ou manteiga vegetal e ligue o fogo baixo para dourar.Enquanto o alho doura é hora de cortar o shitake em cubinhos.</li>
+                <li>Assim que o alho estiver dourado coloque o shitake na panela e misture bem para encorporar o sabor ao cogumelo.</li>
+                <li>Acrescente o shoyu na panela, em fogo baixo deixe cozinhar por 4 minutos e em seguida desligue o fogo acrescentando a salsinha.</li>
+                <li>Em uma bancada abra a sua massa, você pode fazer isso com o cilindro de massas ou com um rolo, se for abrir com o rolo de massas lembre-se de enfarinhar a sua bancada.</li>
+                <li>Com a ajuda de uma carretilha ou faca corte as tiras do seu pappardelle deixando-o com cerca de 2 dedos de largura.</li>
+                <li>Enquanto você estiver cortando a massa é interessante colocar bastante água em uma panela no fogo, assim ao terminar de cortar a massa a água estará fervendo pronta para receber o macarrão!</li>
+                <li>Ao terminar de cortar coloque um pouco de sal na água que já deve estar fervendo e um fio de azeite ou óleo, em seguida adicione o pappardelle na panela.</li>
+                <li>Ao colocar o pappardelle na água fervente conte 3 minutos, esse é o tempo para que a massa fique ao dente, tire a massa do fogo e escorra a água.</li>
+                <li>Misture o pappardelle com o shitake, você pode religar o fogo da panela em que fez o shitake para aquecer o macarrão.</li>
+            </ol>`
+        },
+        {
+            "id": 4,
+            "titulo": "Nhoque de banana da terra",
+            "imagem": "imgs/salgado4.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>5 Bananas da terra</li>
+                <li>2 Xícaras de farinha – Usei a de arroz mas você pode usar amido de milho, farinha de grão de bico ou outra de sua preferência.</li>
+                <li>1 Colher de chá de sal</li>
+                <li>Azeite o quanto baste para selarÁgua o quanto baste para o cozimento da massa</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece colocando as bananas ainda com casca em um tabuleiro, leve-as para assar em forno alto por uns 15 minutos ou até que a casca fique completamente escura.</li>
+                <li>Depois descasque as bananas e coloque-as num recipiente, amasse-as com a ajuda de um garfo para formar um purê homogêneo.</li>
+                <li>Acrescente o sal e uma xícara e meia da sua farinha, mexa bem até obter uma mistura encorpada e consistente.</li>
+                <li>Polvilhe um pouco do restante da farinha sobre uma bancada, é hora de colocar uma parte da massa do nosso nhoque de banana da terra sobre ela e com cuidado e delicadeza formar um rolinho, não é preciso sovar ou acrescentar mais farinha dentro da ‘massa’, apenas enrole com o auxilio da farinha da bancada.</li>
+                <li>Corte o rolinho em pedaços iguais e vá reservando, repita o processo até acabar a massa.</li>
+                <li>Com todo o nhoque cortado é hora de acrescentar azeite numa frigideira e selar os nhoques até que dourem em fogo médio, é bom usar uma frigideira antiaderente para que não grudem.</li>
+            </ol>`
+        },
+        {
+            "id": 5,
+            "titulo": "Suflê de chuchu",
+            "imagem": "imgs/salgado5.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>4 chuchus cozidos</li>
+                <li>1 xícara de leite</li>
+                <li>1 colher (sopa) de manteiga</li>
+                <li>1 colher (sopa) de farinha de trigo</li>
+                <li>4 gemas</li>
+                <li>4 colheres (sopa) de queijo parmesão ralado</li>
+                <li>sal a gosto</li>
+                <li>pimenta-do-reino a gosto</li>
+                <li>4 claras</li>
+                <li>50 g de queijo parmesão ralado</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma tigela, amasse os chuchus cozidos.</li>
+                <li>Passe por uma peneira para retirar o líquido, reserve.</li>
+                <li>No liquidificador, bata o leite com a manteiga e a farinha de trigo.</li>
+                <li>Adicione o chuchu reservado, as gemas, o queijo parmesão ralado, o sal e a pimenta-do-reino, bata bem.</li>
+                <li>À parte, bata as claras em neve.</li>
+                <li>Em outra tigela, junte a mistura do liquidificador com as claras em neve.</li>
+                <li>Mexa delicadamente.</li>
+                <li>Transfira para uma tigela untada com manteiga e enfarinhada.</li>
+                <li>Coloque o queijo parmesão ralado e leve ao forno preaquecido (180° C), por cerca de 25 minutos.</li>
+            </ol>`
+        },
+        {
+            "id": 6,
+            "titulo": "Abobrinha recheada",
+            "imagem": "imgs/salgado6.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 Abobrinhas</li>
+                <li>100g de shitake</li>
+                <li>Azeite o quanto baste</li>
+                <li>2 Dentes de alho</li>
+                <li>2 Colheres de sopa de shoyu</li>
+                <li>Temperos em pó a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece ligando o forno a 180°C para pré-aquecer.</li>
+                <li>Lave bem as abobrinhas e partindo-as ao meio no sentido do comprimento.</li>
+                <li>Com uma colher remova o ‘miolo’ da abobrinha, é a parte que ficam as sementes e que é mais macia. Reserve essa parte do miolo da abobrinha.</li>
+                <li>Descasque e pique o alho, coloque-o em uma panela para dourar com um fio de azeite, enquanto você pica o miolo da abobrinha.</li>
+                <li>Acrescente o miolo da abobrinha picada na panela com o alho e deixe em fogo baixo, enquanto cozinha pique o shitake e logo em seguida acrescente-o na panela.</li>
+                <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
+                <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
+                <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
+            </ol>` 
         }
     ],
     "doces": [
         {
-            "id":1,
+            "id": 1,
             "titulo": "Cookie de chocolate",
             "imagem": "imgs/doce1.jpg",
             "fonte": "Tudo Gostoso",
@@ -242,8 +615,8 @@ var dados = {
             </ol>`,
         },
         {
-            "id":2,
-            "titulo": "Sorvete de Chocolate",
+            "id": 2,
+            "titulo": "Sorvete de chocolate",
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
@@ -281,12 +654,12 @@ var dados = {
             </ol>`,
         },
         {
-            "id":3,
+            "id": 3,
             "titulo": "Mousse de jabuticaba",
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
-            "texto":`
+            "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
                 <li>3 xícaras de jabuticaba</li>
@@ -312,12 +685,93 @@ var dados = {
                     ambiente. Depois leve a geladeira por aproximadamente 4 horas, 
                     ou até a musse ficar gelada e consistente.</li>
             </ol>`
-            
+
+        },
+        {
+            "id": 4,
+            "titulo": "Danette de chocolate",
+            "imagem": "imgs/doce4.jpg",
+            "fonte": "S.O.S Intolerante",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de castanha-de-caju (de molho em água por 8h)</li>
+                <li>2 xícaras de água</li>
+                <li>2 colheres (sopa) de cacau em pó</li>
+                <li>2 colheres (sopa) de óleo de coco</li>
+                <li>1 colher (chá) de essência de baunilha</li>
+                <li>13 a 4 colheres (sopa) de melado</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Dispense a água do molho da castanha e lave-a bem. Junte todos os ingredientes no liquidificador até homogeneizar (se achar muito grosso, pode acrescentar um pouquinho a mais de água). Disponha em potinhos e leve a gelar até firmar, cerca de 8h.</p>`
+        },
+        {
+            "id": 5,
+            "titulo": "Mousse de Blueberry",
+            "imagem": "imgs/doce5.jpg",
+            "fonte": "Pati Bianco",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de leite de coco (ou outro leite vegetal cremoso de sua preferência)</li>
+                <li>1 colher de sopa de araruta para engrossar (pode ser substituída por fécula de batata, amido de milho ou até tapioca!)</li>
+                <li>1/2 xícara de mirtilos</li>
+                <li>1 colher de café de essência de baunilha</li>
+                <li>Stévia a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Misture a araruta no leite até dissolver completamente. 
+            Bata a com os mirtilos, a essência e a stévia no liquidificador 
+            até obter a consistência que você preferir. Eu prefiro bater menos 
+            para deixar alguns pedacinhos da fruta. Coloque nas tacinhas e deixe
+            na geladeira por uns 20 minutos para ficar mais consistente. 
+            Sobremesa, check!
+            </p>
+            <h5>Observações</h5>
+            <p>Usei a araruta porque o mirtilo solta água e deixa o leite menos cremoso. Se for usar outro ingrediente em pó como cacau, por exemplo, pode descartá-la.</p>`
+        },
+        {
+            "id": 6,
+            "titulo": "Bolo de cenoura",
+            "imagem": "imgs/doce6.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 cenouras em pedaços</li>
+                <li>suco de 2 laranjas</li>
+                <li>1/2 copo de óleo</li>
+                <li>1 copo de açúcar</li>
+                <li>3 copos de farinha de trigo</li>
+                <li>1 colher de sopa de fermento químico</li>
+            </ul>
+            <h7>Cobertura:</h7>
+            <ul>
+                <li>200 ml de leite de coco</li>
+                <li>7 colheres de sopa de cacau em pó</li>
+                <li>7 colheres de sopa de açucar</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>No liquidificador bata todos os ingredientes, exceto a farinha de trigo e o fermento, que devem ser colocados em um recipiente à parte, e misturados com uma colher de pau aos ingredientes já batidos do liquidificador.</li>
+                <li>Unte uma forma com óleo e polvilhe farinha de trigo.</li>
+                <li>Despeje a massa do bolo que deve estar uniforme.</li>
+                <li>Leve ao forno, preaquecido por aproximadamente 45 minutos.</li>
+            </ol>
+            <h7>Cobertura:</h7>
+            <ol>
+                <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
+                <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
+            </ol>` 
         }
     ],
-    "veganas":[
+    "veganas": [
         {
-            "id":1,
+            "id": 1,
             "titulo": "Cookie de chocolate",
             "imagem": "imgs/doce1.jpg",
             "fonte": "Tudo Gostoso",
@@ -345,8 +799,8 @@ var dados = {
             </ol>`,
         },
         {
-            "id":2,
-            "titulo": "Sorvete de Chocolate",
+            "id": 2,
+            "titulo": "Sorvete de chocolate",
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
@@ -384,12 +838,12 @@ var dados = {
             </ol>`,
         },
         {
-            "id":4,
+            "id": 4,
             "titulo": "Mousse de jabuticaba",
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
-            "texto":`
+            "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
                 <li>3 xícaras de jabuticaba</li>
@@ -415,13 +869,179 @@ var dados = {
                     ambiente. Depois leve a geladeira por aproximadamente 4 horas, 
                     ou até a musse ficar gelada e consistente.</li>
             </ol>`
-            
+
+        },
+        {
+            "id": 4,
+            "titulo": "Danette de chocolate",
+            "imagem": "imgs/doce4.jpg",
+            "fonte": "S.O.S Intolerante",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de castanha-de-caju (de molho em água por 8h)</li>
+                <li>2 xícaras de água</li>
+                <li>2 colheres (sopa) de cacau em pó</li>
+                <li>2 colheres (sopa) de óleo de coco</li>
+                <li>1 colher (chá) de essência de baunilha</li>
+                <li>13 a 4 colheres (sopa) de melado</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Dispense a água do molho da castanha e lave-a bem. Junte todos os ingredientes no liquidificador até homogeneizar (se achar muito grosso, pode acrescentar um pouquinho a mais de água). Disponha em potinhos e leve a gelar até firmar, cerca de 8h.</p>`
+        },
+        {
+            "id": 5,
+            "titulo": "Mousse de Blueberry",
+            "imagem": "imgs/doce5.jpg",
+            "fonte": "Pati Bianco",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 xícara de leite de coco (ou outro leite vegetal cremoso de sua preferência)</li>
+                <li>1 colher de sopa de araruta para engrossar (pode ser substituída por fécula de batata, amido de milho ou até tapioca!)</li>
+                <li>1/2 xícara de mirtilos</li>
+                <li>1 colher de café de essência de baunilha</li>
+                <li>Stévia a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <p>Misture a araruta no leite até dissolver completamente. 
+            Bata a com os mirtilos, a essência e a stévia no liquidificador 
+            até obter a consistência que você preferir. Eu prefiro bater menos 
+            para deixar alguns pedacinhos da fruta. Coloque nas tacinhas e deixe
+            na geladeira por uns 20 minutos para ficar mais consistente. 
+            Sobremesa, check!
+            </p>
+            <h5>Observações</h5>
+            <p>Usei a araruta porque o mirtilo solta água e deixa o leite menos cremoso. Se for usar outro ingrediente em pó como cacau, por exemplo, pode descartá-la.</p>`
+        },
+        {
+            "id": 6,
+            "titulo": "Pappardelle com shitake",
+            "imagem": "imgs/salgado3.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>Massa fresca da sua preferência</li>
+                <li>1 Colher de sopa de sal (para a água de cozimento do macarrão)</li>
+                <li>1 Colher de sopa de óleo ou azeite (para o cozimento do macarrão)</li>
+                <li>Água o quanto baste para o cozimento da massa</li>
+                <li>200g de shitake fresco</li>
+                <li>1/2 Copo de shoyu</li>
+                <li>3 Dentes de alho</li>
+                <li>3 Colheres de sopa de azeite ou manteiga vegetal</li>
+                <li>Salsinha a gosto (usei desidratada)</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece preparando a sua massa fresca, após fazer a massa a embrulhe em um plástico filme e deixe descansando enquanto faz o molho de shitake.</li>
+                <li>Para fazer o shitake descasque e pique o alho, coloque-o em uma panela com azeite ou manteiga vegetal e ligue o fogo baixo para dourar.Enquanto o alho doura é hora de cortar o shitake em cubinhos.</li>
+                <li>Assim que o alho estiver dourado coloque o shitake na panela e misture bem para encorporar o sabor ao cogumelo.</li>
+                <li>Acrescente o shoyu na panela, em fogo baixo deixe cozinhar por 4 minutos e em seguida desligue o fogo acrescentando a salsinha.</li>
+                <li>Em uma bancada abra a sua massa, você pode fazer isso com o cilindro de massas ou com um rolo, se for abrir com o rolo de massas lembre-se de enfarinhar a sua bancada.</li>
+                <li>Com a ajuda de uma carretilha ou faca corte as tiras do seu pappardelle deixando-o com cerca de 2 dedos de largura.</li>
+                <li>Enquanto você estiver cortando a massa é interessante colocar bastante água em uma panela no fogo, assim ao terminar de cortar a massa a água estará fervendo pronta para receber o macarrão!</li>
+                <li>Ao terminar de cortar coloque um pouco de sal na água que já deve estar fervendo e um fio de azeite ou óleo, em seguida adicione o pappardelle na panela.</li>
+                <li>Ao colocar o pappardelle na água fervente conte 3 minutos, esse é o tempo para que a massa fique ao dente, tire a massa do fogo e escorra a água.</li>
+                <li>Misture o pappardelle com o shitake, você pode religar o fogo da panela em que fez o shitake para aquecer o macarrão.</li>
+            </ol>`
+        },
+        {
+            "id": 7,
+            "titulo": "Nhoque de banana da terra",
+            "imagem": "imgs/salgado4.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>5 Bananas da terra</li>
+                <li>2 Xícaras de farinha – Usei a de arroz mas você pode usar amido de milho, farinha de grão de bico ou outra de sua preferência.</li>
+                <li>1 Colher de chá de sal</li>
+                <li>Azeite o quanto baste para selar</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece colocando as bananas ainda com casca em um tabuleiro, leve-as para assar em forno alto por uns 15 minutos ou até que a casca fique completamente escura.</li>
+                <li>Depois descasque as bananas e coloque-as num recipiente, amasse-as com a ajuda de um garfo para formar um purê homogêneo.</li>
+                <li>Acrescente o sal e uma xícara e meia da sua farinha, mexa bem até obter uma mistura encorpada e consistente.</li>
+                <li>Polvilhe um pouco do restante da farinha sobre uma bancada, é hora de colocar uma parte da massa do nosso nhoque de banana da terra sobre ela e com cuidado e delicadeza formar um rolinho, não é preciso sovar ou acrescentar mais farinha dentro da ‘massa’, apenas enrole com o auxilio da farinha da bancada.</li>
+                <li>Corte o rolinho em pedaços iguais e vá reservando, repita o processo até acabar a massa.</li>
+                <li>Com todo o nhoque cortado é hora de acrescentar azeite numa frigideira e selar os nhoques até que dourem em fogo médio, é bom usar uma frigideira antiaderente para que não grudem.</li>
+            </ol>`
+        },
+        {
+            "id": 8,
+            "titulo": "Bolo de cenoura",
+            "imagem": "imgs/doce6.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 cenouras em pedaços</li>
+                <li>suco de 2 laranjas</li>
+                <li>1/2 copo de óleo</li>
+                <li>1 copo de açúcar</li>
+                <li>3 copos de farinha de trigo</li>
+                <li>1 colher de sopa de fermento químico</li>
+            </ul>
+            <h7>Cobertura:</h7>
+            <ul>
+                <li>200 ml de leite de coco</li>
+                <li>7 colheres de sopa de cacau em pó</li>
+                <li>7 colheres de sopa de açucar</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>No liquidificador bata todos os ingredientes, exceto a farinha de trigo e o fermento, que devem ser colocados em um recipiente à parte, e misturados com uma colher de pau aos ingredientes já batidos do liquidificador.</li>
+                <li>Unte uma forma com óleo e polvilhe farinha de trigo.</li>
+                <li>Despeje a massa do bolo que deve estar uniforme.</li>
+                <li>Leve ao forno, preaquecido por aproximadamente 45 minutos.</li>
+            </ol>
+            <h7>Cobertura:</h7>
+            <ol>
+                <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
+                <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
+            </ol>` 
+        },
+        {
+            "id": 9,
+            "titulo": "Abobrinha recheada",
+            "imagem": "imgs/salgado6.jpg",
+            "fonte": "Jornada Vegana",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 Abobrinhas</li>
+                <li>100g de shitake</li>
+                <li>Azeite o quanto baste</li>
+                <li>2 Dentes de alho</li>
+                <li>2 Colheres de sopa de shoyu</li>
+                <li>Temperos em pó a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Comece ligando o forno a 180°C para pré-aquecer.</li>
+                <li>Lave bem as abobrinhas e partindo-as ao meio no sentido do comprimento.</li>
+                <li>Com uma colher remova o ‘miolo’ da abobrinha, é a parte que ficam as sementes e que é mais macia. Reserve essa parte do miolo da abobrinha.</li>
+                <li>Descasque e pique o alho, coloque-o em uma panela para dourar com um fio de azeite, enquanto você pica o miolo da abobrinha.</li>
+                <li>Acrescente o miolo da abobrinha picada na panela com o alho e deixe em fogo baixo, enquanto cozinha pique o shitake e logo em seguida acrescente-o na panela.</li>
+                <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
+                <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
+                <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
+            </ol>` 
         }
     ],
-    "vegetarianas":[
+    "vegetarianas": [
         {
-            "id":1,
-            "titulo": "Quibe de Forno",
+            "id": 1,
+            "titulo": "Quibe de forno",
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
@@ -463,6 +1083,96 @@ var dados = {
                 <li>Leve ao forno pré-aquecido e asse em fogo médio por cerca de 20 a 30 
                     minutos.</li>
             </ol>`
+        },
+        {
+            "id": 2,
+            "titulo": "Estrogonofe de carne de soja",
+            "imagem": "imgs/salgado2.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de chá de carne de soja</li>
+                <li>1 xícara de chá creme de leite</li>
+                <li>1 lata de purê de tomate</li>
+                <li>1/2 xícara de chá de mostarda</li>
+                <li>1/2 xícara chá de água</li>
+                <li>2 colheres sopa de óleo</li>
+                <li>1/2 cebola ralada</li>
+                <li>Sal e pimenta do reino a gosto</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela coloque o óleo.</li>
+                <li>E em seguida frite a cebola.</li>
+                <li>Junte o purê de tomate, a mostarda, a água e os temperos.Misture bem.</li>
+                <li>Junte a seguir a carne de soja, deixe cozinhar em fogo baixo até engrossar.</li>
+                <li>Desligue o fogo, acrescente o creme de leite e misture bem.Coloque na travessa e sirva.</li>
+            </ol>`
+        },
+        {
+            "id": 3,
+            "titulo": "Suflê de chuchu",
+            "imagem": "imgs/salgado5.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>4 chuchus cozidos</li>
+                <li>1 xícara de leite</li>
+                <li>1 colher (sopa) de manteiga</li>
+                <li>1 colher (sopa) de farinha de trigo</li>
+                <li>4 gemas</li>
+                <li>4 colheres (sopa) de queijo parmesão ralado</li>
+                <li>sal a gosto</li>
+                <li>pimenta-do-reino a gosto</li>
+                <li>4 claras</li>
+                <li>50 g de queijo parmesão ralado</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma tigela, amasse os chuchus cozidos.</li>
+                <li>Passe por uma peneira para retirar o líquido, reserve.</li>
+                <li>No liquidificador, bata o leite com a manteiga e a farinha de trigo.</li>
+                <li>Adicione o chuchu reservado, as gemas, o queijo parmesão ralado, o sal e a pimenta-do-reino, bata bem.</li>
+                <li>À parte, bata as claras em neve.</li>
+                <li>Em outra tigela, junte a mistura do liquidificador com as claras em neve.</li>
+                <li>Mexa delicadamente.</li>
+                <li>Transfira para uma tigela untada com manteiga e enfarinhada.</li>
+                <li>Coloque o queijo parmesão ralado e leve ao forno preaquecido (180° C), por cerca de 25 minutos.</li>
+            </ol>`
+        }
+    ],
+    "videos": [
+        {
+            "id":1,
+            "titulo":"Lasanha vegana",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/O0Hq9aikuFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":2,
+            "titulo":"Escondidinho vegano",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/8KGfE3cqZjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        
+        },
+        {
+            "id":3,
+            "titulo":"Risoto de legumes vegano",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/F9aTQu6NrjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":4,
+            "titulo":"Pizza de frigideira vegana e sem glúten",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/uQFN3uykRnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":5,
+            "titulo":"Estrogonofe vegetariano de cogumelos e palmito",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/Hih9D7zOIKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
         }
     ]
 }
@@ -516,10 +1226,9 @@ function exibeReceitas() {
 
 window.onload = exibeReceitas();
 document.getElementById('btnTudo').addEventListener('click', exibeReceitas);
-console.log (i);
+console.log(i);
 
-
-function executaPesquisa() {
+/*function executaPesquisa() {
     let query = document.getElementById('txtPesquisa').value;
 
     let xhr = new XMLHttpRequest(),
@@ -529,7 +1238,7 @@ function executaPesquisa() {
     xhr.send();
 }
 
-document.getElementById('btnPesquisa').addEventListener('click', executaPesquisa);
+document.getElementById('btnPesquisa').addEventListener('click', executaPesquisa);*/
 
 
 function exibeSalgados() {
@@ -577,6 +1286,8 @@ function exibeSalgados() {
     };
 
     elemMain.innerHTML = textoHTML;
+
+    /*document.getElementById("btnSalgados").style.background = "#01492a";*/
 }
 
 document.getElementById('btnSalgados').addEventListener('click', exibeSalgados);
@@ -729,3 +1440,29 @@ function exibeVegetarianas() {
 }
 
 document.getElementById('btnVegetarianas').addEventListener('click', exibeVegetarianas);
+
+
+function exibeVideos() {
+    var elemMain = document.getElementById('tela');
+    var textoHTML = '';
+
+    for (i = 0; i < dados.videos.length; i++) {
+
+        var video = dados.videos[i];
+
+        textoHTML = textoHTML + `
+        <div id="box-videos">
+            <h4>${video.titulo}</h4>
+            <div class="video-block">
+                <div class="embed-responsive embed-responsive-4by3">
+                    ${video.url}
+                </div>
+            </div>
+        </div>
+        `;
+    };
+
+    elemMain.innerHTML = textoHTML;
+}
+
+document.getElementById('btnVideos').addEventListener('click', exibeVideos);
