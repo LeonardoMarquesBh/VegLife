@@ -518,7 +518,7 @@ a.quicklink {
 }
 
 
-/*Pesquisa*/
+/*Pesquisa
 
 #buscaReceitas #btnPesquisa{
     color: black;
@@ -528,7 +528,7 @@ a.quicklink {
 
 #buscaReceitas{
     float: right;
-}
+}*/
 
 /*categorias*/
 
@@ -545,3 +545,23 @@ a.quicklink {
     height: 2px;
 }
 
+/*videos*/
+
+#box-videos{
+    position: relative;
+    width: 350px;
+    min-height: 210px;
+    border-style: solid;
+    border-color: #007944;
+    margin: 10px;
+    background-color: #93b984;
+}
+
+#box-videos h3{
+    margin: 10px;
+}
+
+#box-videos .video-block{
+    width: 300px;
+    margin: 10px;
+}
