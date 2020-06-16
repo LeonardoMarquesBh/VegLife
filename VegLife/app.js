@@ -166,7 +166,7 @@ var dados = {
             "id": 5,
             "titulo": "Danette de chocolate",
             "imagem": "imgs/doce4.jpg",
-            "fonte": "S.O.S Intolerante",
+            "fonte": "SOS Intolerante",
             "tipo": "✅Vegano",
             "texto": `
             <h5>INGREDIENTES</h5>
@@ -389,7 +389,364 @@ var dados = {
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
             </ol>` 
+        },
+        {
+            "id": 13,
+            "titulo": "Brigadeiro de Inhame",
+            "imagem": "imgs/doce7.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 inhame grande cozido</li>
+                <li>1/3 de xícara de açúcar de coco</li>
+                <li>1/2 colher de chá de essência de baunilh</li>
+                <li>1/2 xícara de leite vegetal ou água do cozimento do inhame</li>
+                <li>1 colher de sopa de óleo de côco</li>
+                <li>2 xícaras (cerca de 150g) de chocolate meio amargo ralado (uso Melken da Harold</li>
+                <li>Granulado para decorar</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Bata todos os ingredientes, exceto o chocolate e o granulado, no liquidificador. Adicione o leite vegetal ou água aos pouco até formar um creme firme e homogêneo.  Esse será nosso leite condensado!
+                </li>
+                <li>Despeje o creme em uma panela, adicione o chocolate meio amargo ralado  e leve ao fogo médio até que esteja firme e desgrudando da panela.
+                </li>
+                <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
+                <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
+            </ol>` 
+        },
+        {
+            "id": 14,
+            "titulo": "Creme de Tapioca com Manga",
+            "imagem": "imgs/doce8.jpg",
+            "fonte": "Saboresdavida.net",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 manga grande madura, sem casca, cortada em cubos</li>
+                <li>1 colher de sopa de suco de limão</li>
+                <li>2 xícaras de leite vegetal (usei leite de amêndoas que eu mesma preparei)</li>
+                <li>1/2 xícara de açúcar demerara</li>
+                <li>1 bago de cardamomo</li>
+                <li>1/2 xícara de tapioca granulada fina</li>
+                <li>2 colheres de coco fresco para polvilhar (como eu não tinha, polvilhei com amêndoas moídas)</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque a manga numa tigela com o suco de limão e reserve.</li>
+                <li>Em uma panela ferva o leite vegetal co o açúcar e as sementes do bago de cardamomo</li>
+                <li>Retire do fogo e adicione a tapioca aos poucos, sempre mexendo para não empelotar.</li>
+                <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
+                <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
+                <li>Leve à geladeira por 3 horas.</li>
+            </ol>` 
+        },
+        {
+            "id": 15,
+            "titulo": "Torta de Ricota com Geleia de Damasco",
+            "imagem": "imgs/doce12.jpg",
+            "fonte": "PetitChef",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>500g de ricota</li>
+                <li>1 colher de sopa de farinha de trigo</li>
+                <li>1 colher de sopa de manteiga</li>
+                <li>1 lata de leite condensado</li>
+                <li>1 medida lata de leite</li>
+                <li>3 gemas (claras separadas)</li>   
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
+                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
+                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
+                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
+                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
+            </ol>` 
+        },
+        {
+            "id": 16,
+            "titulo": "Churros Vegano",
+            "imagem": "imgs/doce11.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>150 ml de água.</li>
+                <li>150 ml de leite vegetal – também pode fazer com 300 ml de água</li>
+                <li>2 colheres de sopa de manteiga ghee – ou óleo de coco ou de girassol</li>
+                <li>1/2 xícara de de arroz</li>
+                <li>1/4 de xícara de farinha de grão de bico</li>
+                <li>1/4 de xícara de farinha de linhaça</li>
+                <li>1/4 de xícara de tâmaras processadas</li>
+                <li>1 pitada de sal</li>
+                <li>Canela para polvilhar</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Primeiro de tudo deixe as tâmaras de molho por umas 2-3 horas até elas ficarem bem macias, então processe elas com um pouquinho da água em que elas estavam de molho até formar um purê.</li>
+                <li>Pré-aqueça o forno a 180 graus.</li>
+                <li>Leve ao fogo o leite vegetal, a água, manteiga ghee, o sal e as tâmaras e espere ferver.</li>
+                <li>Enquanto isso misture as farinhas em um bowl e reserve.</li>
+                <li>Assim que ferver adicione as farinhas e mexa bem, com fouet ou colher de pau, até a massa começar a soltar da panela. Desligue e espere a massa esfriar.</li>
+                <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
+                <li>Asse por uns 20 minutos.</li>
+                <li>Retire do forno e passe na canela.</li>
+            </ol>` 
+        },
+        {
+            "id": 17,
+            "titulo": "Pavê de Paçoca",
+            "imagem": "imgs/doce10.jpg",
+            "fonte": "Cybercook",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 xícaras (de chá) de leite de amendoim (ou amêndoas, ou soja).</li>
+                <li>1/4 de xícara (de chá) de açúcar demerara ou cristal.</li>
+                <li>2 colheres (de chá) de essência de baunilha.</li>
+                <li>1/4 de xícara (de chá) de leite vegetal misturado com  3 colheres (de sopa) de amido de milho.</li>
+                <li>400g de paçoca esfarelada.</li>
+                <li>1 pacote de bolachas tipo maisena.</li>
+                <li>Leite vegetal para molhar as bolachas.</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela em fogo médio, coloque o leite de amendoim, o açúcar e a essência de baunilha.</li>
+                <li>Misture e deixe ferver.</li>
+                <li>Abaixe o fogo e adicione o amido de milho misturado no leite vegetal, misture e deixe engrossar.</li>
+                <li>Adicione a paçoca esfarelada e misture novamente, até ficar um creme uniforme.</li>
+                <li>Desligue e reserve. Molhe bolachas maisena em leite vegetal e coloque-as em uma travessa grande, lado a lado e cubra com uma camada de creme. Repita o procedimento, alternando bolacha e creme, finalizando com uma camada do creme.</li>
+                <li>Cubra e leve à geladeira por pelo menos 8 horas antes de servir.Se quiser, salpique resíduos de leite de amendoim torrados para servir.</li>
+                <li>Para torrar os resíduos do leite de amendoim: eu costumo espalhar eles por uma assadeira antiaderente e levo para assar em forno médio por uns 20 minutos mais ou menos, olhando sempre, mexendo para não queimarem.</li>
+            </ol>`
+        },
+        {
+            "id": 18,
+            "titulo": "Cheesecake de Maçã",
+            "imagem": "imgs/doce9.jpg",
+            "fonte": "guiadacozinha",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de castanhas do pará ou resíduo do Leite de Castanha do Pará.</li>
+                <li>1/2 xícara de água.</li>
+                <li>Suco de 1/2 limão.</li>
+                <li>2 maçãs.</li>
+                <li>1 xícara de farinha de trigo integral.</li>
+                <li>1/2 xícara de farinha de trigo branca.</li>
+                <li>5 colheres de sopa de água gelada.</li>
+                <li>1 colher de sopa de óleo de coco ou outro óleo vegetal.</li>
+                <li>1 colher de chá de canela.</li>
+                <li>1 colher se sopa de melado de cana ou açúcar ou adoçante.</li>
+                <li>Uma pitada de sal</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Misture as farinhas, a água gelada, o óleo de coco, a canela, uma pitada de sal e o melado em um bowl e misture bem. A massa deve parecer massinha de modelar. Se estiver grudenta, adicione mais farinha.</li>
+                <li>Cubra uma assadeira pequena ou forminhas menores com a massa e leve ao forno baixo por 15 minutos.</li>
+                <li>Enquanto isso, bata no liquidificador as castanhas do pará com a água fria e o suco de limão. Se utilizar o resíduo, preferencialmente bata com 1/2 xícara do próprio leite de castanha-do-pará. O creme formado deve ser bem consistente e homogêneo.</li>
+                <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
+                <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
+                <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
+            </ol>` 
+        },
+        {
+            "id": 19,
+            "titulo": "Empadão Vegano",
+            "imagem": "imgs/salgado7.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES DO RECHEIO</h5>
+            <ul>
+                <li>240 g de palmito pupunha.</li>
+                <li>150 g de vagem bem picadinha.</li>
+                <li>1 lata de seleta de legumes.</li>
+                <li>50 g de azeitona preta fatiada.</li>
+                <li>100 g de cebola.</li>
+                <li>30 ml de azeite.</li>
+                <li>2 g de orégano.</li>
+                <li>120 ml de água.</li>
+                <li>1 colher (sopa) de amido de milho.</li>
+                <li>Sal a gosto.</li>
+                <li>Pimenta-do-reino a gosto.</li>
+            </ul>
+            <h5>INGREDIENTES DA MASSA</h5>
+            <ul>
+                <li>1 caixinha de grão-de-bico.</li>
+                <li>20 ml de azeite.</li>
+                <li>Sal a gosto.</li>
+                <li>3 g de cúrcuma.</li>
+                <li>150 g de farinha de arroz</li>
+                <li>60 ml de água.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Para o recheio, refogue a cebola com azeite..</li>
+                <li>Acrescente o palmito, a vagem, a cenoura e o orégano; cozinhe com a água até que fique ao dente. Tempere com sal e pimenta.</li>
+                <li>Coloque o amido de milho dissolvido em um pouco de água, mexendo sempre até incorporar no recheio.</li>
+                <li>Acrescente a azeitona e desligue o fogo.</li>
+                <li>No processador, coloque o grão-de-bico, o azeite, sal, água e a cúrcuma; processe para misturar.</li>
+                <li>Na tigela com a farinha de arroz, adicione a mistura e mexa com a ajuda das mãos até formar uma massa firme.</li>
+                <li>Forre o fundo de pequenos recipientes com parte da massa.</li>
+                <li>Coloque o recheio.</li>
+                <li>Cubra com uma outra parte da massa.</li>
+                <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
+            </ol>` 
+        },
+        {
+            "id": 20,
+            "titulo": "Penne Verde com Brie",
+            "imagem": "imgs/salgado8.jpg",
+            "fonte": "Catraca Livre",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 porção de penne verde.</li>
+                <li>80g de queijo brie em cubinhos.</li>
+                <li>1/3 xícara de creme de leite.</li>
+                <li>1/3 xícara de leite.</li>
+                <li>1 fio de azeite.</li>
+                <li>1/2 cebola caramelizada.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe a massa em água fervente.</li>
+                <li>Enquanto isso, aqueça o leite em fogo baixo e derreta o brie nele.</li>
+                <li>Mexa até ficar hompogêneo.</li>
+                <li>Incorpore o creme de leite.</li>
+                <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
+                <li>Para finalizar, coloque cebola caramelizada no centro.</li>
+            </ol>` 
+        },
+        {
+            "id": 21,
+            "titulo": "Escondidinho Vegetariano",
+            "imagem": "imgs/salgado9.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 maço de brócolis picado.</li>
+                <li>1/2 talo alho-poró cortado em rodelas finas.</li>
+                <li>1 vidro de palmito pequeno picado.</li>
+                <li>1 lata de milho.</li>
+                <li>Azeitonas picadas a gosto.</li>
+                <li>1 cebola picada.</li>
+                <li>1 dente de alho amassado.</li>
+                <li>1 cubo de caldo de legumes.</li>
+                <li>1/2kg de batata cozida e amassada.</li>
+                <li>1/2 xícara de chá de azeite</li>
+                <li>Parmesão ralado a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe as batatas descascadas até ficar macia e esprema como purê.</li>
+                <li>Adicione o leite vegetal, margarina e sal, misture bem e reserve.</li>
+                <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
+                <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
+                <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
+            </ol>` 
+        },
+        {
+            "id": 22,
+            "titulo": "Berinjela Recheada",
+            "imagem": "imgs/salgado10.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>300 g de ricota fresca.</li>
+                <li>1 colher de sopa de azeite de oliva.</li>
+                <li>4 talos de cebolinha fatiadas.</li>
+                <li>3/4 de xí­cara de chá de aveia em flocos.</li>
+                <li>Sal a gosto.</li>
+                <li>1 berinjela grande.</li>
+                <li>1 tomate sem sementes em cubos pequenos.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Amasse a ricota com um garfo.</li>
+                <li>Misture bem todos os ingredientes, exceto a berinjela e divida em 4 partes iguais e reserve.</li>
+                <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
+                <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
+                <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
+            </ol>` 
+        },
+        {
+            "id": 23,
+            "titulo": "Feijoada Vegetariana",
+            "imagem": "imgs/salgado11.jpg",
+            "fonte": "Gshow",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1/2 xícara de óleo para refogar a cebola.</li>
+                <li>2 berinjelas medias cortadas em cubinhos.</li>
+                <li>2 abobrinhas cortadas em cubinhos.</li>
+                <li>1 pimentão vermelho cortado em cubinhos.</li>
+                <li>1 pimentão amarelo cortado em cubinhos.</li>
+                <li>100 gramas de vagem cortada em cubinhos.</li>
+                <li>2 cenouras grandes cortadas em cubinhos.</li>
+                <li>4 batatas grandes cortada em cubinhos.</li>
+                <li>2 cubos de caldo de legumes.</li>
+                <li>1 lata de salsicha vegetal cortada em fatias.</li>
+                <li>300 gramas de proteina de soja desidratada grande</li>
+                <li>3 folhas de louro.</li>
+                <li>300 gramas de queijo provolone defumado cortado em cubinhos.</li>
+                <li>Sal a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
+                <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
+                <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
+            </ol>` 
+        },
+        {
+            "id": 24,
+            "titulo": "Farofa de Carne de Soja",
+            "imagem": "imgs/salgado12.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>200 g de proteína de soja texturizada.</li>
+                <li>1 xícara de óleo.</li>
+                <li>Alho a gosto.</li>
+                <li>Cebola a gosto.</li>
+                <li>1 pacote de creme de cebola do pequeno.</li>
+                <li>1 caldo a gosto.</li>
+                <li>Se quiser pode coolocar gergelim e linhaça.</li>
+               
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
+                <li>Coloque o alho, após ele dourar.</li>
+                <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
+            </ol>` 
         }
+
     ],
     "salgados": [
         {
@@ -583,7 +940,192 @@ var dados = {
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
             </ol>` 
+        },
+        {
+            "id": 7,
+            "titulo": "Empadão Vegano",
+            "imagem": "imgs/salgado7.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES DO RECHEIO</h5>
+            <ul>
+                <li>240 g de palmito pupunha.</li>
+                <li>150 g de vagem bem picadinha.</li>
+                <li>1 lata de seleta de legumes.</li>
+                <li>50 g de azeitona preta fatiada.</li>
+                <li>100 g de cebola.</li>
+                <li>30 ml de azeite.</li>
+                <li>2 g de orégano.</li>
+                <li>120 ml de água.</li>
+                <li>1 colher (sopa) de amido de milho.</li>
+                <li>Sal a gosto.</li>
+                <li>Pimenta-do-reino a gosto.</li>
+            </ul>
+            <h5>INGREDIENTES DA MASSA</h5>
+            <ul>
+                <li>1 caixinha de grão-de-bico.</li>
+                <li>20 ml de azeite.</li>
+                <li>Sal a gosto.</li>
+                <li>3 g de cúrcuma.</li>
+                <li>150 g de farinha de arroz</li>
+                <li>60 ml de água.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Para o recheio, refogue a cebola com azeite..</li>
+                <li>Acrescente o palmito, a vagem, a cenoura e o orégano; cozinhe com a água até que fique ao dente. Tempere com sal e pimenta.</li>
+                <li>Coloque o amido de milho dissolvido em um pouco de água, mexendo sempre até incorporar no recheio.</li>
+                <li>Acrescente a azeitona e desligue o fogo.</li>
+                <li>No processador, coloque o grão-de-bico, o azeite, sal, água e a cúrcuma; processe para misturar.</li>
+                <li>Na tigela com a farinha de arroz, adicione a mistura e mexa com a ajuda das mãos até formar uma massa firme.</li>
+                <li>Forre o fundo de pequenos recipientes com parte da massa.</li>
+                <li>Coloque o recheio.</li>
+                <li>Cubra com uma outra parte da massa.</li>
+                <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
+            </ol>` 
+        },
+        {
+            "id": 8,
+            "titulo": "Penne Verde com Brie",
+            "imagem": "imgs/salgado8.jpg",
+            "fonte": "Catraca Livre",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 porção de penne verde.</li>
+                <li>80g de queijo brie em cubinhos.</li>
+                <li>1/3 xícara de creme de leite.</li>
+                <li>1/3 xícara de leite.</li>
+                <li>1 fio de azeite.</li>
+                <li>1/2 cebola caramelizada.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe a massa em água fervente.</li>
+                <li>Enquanto isso, aqueça o leite em fogo baixo e derreta o brie nele.</li>
+                <li>Mexa até ficar hompogêneo.</li>
+                <li>Incorpore o creme de leite.</li>
+                <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
+                <li>Para finalizar, coloque cebola caramelizada no centro.</li>
+            </ol>` 
+        },
+        {
+            "id": 9,
+            "titulo": "Escondidinho Vegetariano",
+            "imagem": "imgs/salgado9.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 maço de brócolis picado.</li>
+                <li>1/2 talo alho-poró cortado em rodelas finas.</li>
+                <li>1 vidro de palmito pequeno picado.</li>
+                <li>1 lata de milho.</li>
+                <li>Azeitonas picadas a gosto.</li>
+                <li>1 cebola picada.</li>
+                <li>1 dente de alho amassado.</li>
+                <li>1 cubo de caldo de legumes.</li>
+                <li>1/2kg de batata cozida e amassada.</li>
+                <li>1/2 xícara de chá de azeite</li>
+                <li>Parmesão ralado a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe as batatas descascadas até ficar macia e esprema como purê.</li>
+                <li>Adicione o leite vegetal, margarina e sal, misture bem e reserve.</li>
+                <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
+                <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
+                <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
+            </ol>` 
+        },
+        {
+            "id": 10,
+            "titulo": "Berinjela Recheada",
+            "imagem": "imgs/salgado10.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>300 g de ricota fresca.</li>
+                <li>1 colher de sopa de azeite de oliva.</li>
+                <li>4 talos de cebolinha fatiadas.</li>
+                <li>3/4 de xí­cara de chá de aveia em flocos.</li>
+                <li>Sal a gosto.</li>
+                <li>1 berinjela grande.</li>
+                <li>1 tomate sem sementes em cubos pequenos.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Amasse a ricota com um garfo.</li>
+                <li>Misture bem todos os ingredientes, exceto a berinjela e divida em 4 partes iguais e reserve.</li>
+                <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
+                <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
+                <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
+            </ol>` 
+        },
+        {
+            "id": 11,
+            "titulo": "Feijoada Vegetariana",
+            "imagem": "imgs/salgado11.jpg",
+            "fonte": "Gshow",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1/2 xícara de óleo para refogar a cebola.</li>
+                <li>2 berinjelas medias cortadas em cubinhos.</li>
+                <li>2 abobrinhas cortadas em cubinhos.</li>
+                <li>1 pimentão vermelho cortado em cubinhos.</li>
+                <li>1 pimentão amarelo cortado em cubinhos.</li>
+                <li>100 gramas de vagem cortada em cubinhos.</li>
+                <li>2 cenouras grandes cortadas em cubinhos.</li>
+                <li>4 batatas grandes cortada em cubinhos.</li>
+                <li>2 cubos de caldo de legumes.</li>
+                <li>1 lata de salsicha vegetal cortada em fatias.</li>
+                <li>300 gramas de proteina de soja desidratada grande</li>
+                <li>3 folhas de louro.</li>
+                <li>300 gramas de queijo provolone defumado cortado em cubinhos.</li>
+                <li>Sal a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
+                <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
+                <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
+            </ol>` 
+        },
+        {
+            "id": 12,
+            "titulo": "Farofa de Carne de Soja",
+            "imagem": "imgs/salgado12.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>200 g de proteína de soja texturizada.</li>
+                <li>1 xícara de óleo.</li>
+                <li>Alho a gosto.</li>
+                <li>Cebola a gosto.</li>
+                <li>1 pacote de creme de cebola do pequeno.</li>
+                <li>1 caldo a gosto.</li>
+                <li>Se quiser pode coolocar gergelim e linhaça.</li>
+               
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
+                <li>Coloque o alho, após ele dourar.</li>
+                <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
+            </ol>` 
         }
+
     ],
     "doces": [
         {
@@ -691,7 +1233,7 @@ var dados = {
             "id": 4,
             "titulo": "Danette de chocolate",
             "imagem": "imgs/doce4.jpg",
-            "fonte": "S.O.S Intolerante",
+            "fonte": "SOS Intolerante",
             "tipo": "✅Vegano",
             "texto": `
             <h5>INGREDIENTES</h5>
@@ -767,7 +1309,180 @@ var dados = {
                 <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
                 <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
             </ol>` 
+        },
+        {
+            "id": 7,
+            "titulo": "Brigadeiro de Inhame",
+            "imagem": "imgs/doce7.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 inhame grande cozido</li>
+                <li>1/3 de xícara de açúcar de coco</li>
+                <li>1/2 colher de chá de essência de baunilh</li>
+                <li>1/2 xícara de leite vegetal ou água do cozimento do inhame</li>
+                <li>1 colher de sopa de óleo de côco</li>
+                <li>2 xícaras (cerca de 150g) de chocolate meio amargo ralado (uso Melken da Harold</li>
+                <li>Granulado para decorar</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Bata todos os ingredientes, exceto o chocolate e o granulado, no liquidificador. Adicione o leite vegetal ou água aos pouco até formar um creme firme e homogêneo.  Esse será nosso leite condensado!
+                </li>
+                <li>Despeje o creme em uma panela, adicione o chocolate meio amargo ralado  e leve ao fogo médio até que esteja firme e desgrudando da panela.
+                </li>
+                <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
+                <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
+            </ol>` 
+        },
+        {
+            "id": 8,
+            "titulo": "Creme de Tapioca com Manga",
+            "imagem": "imgs/doce8.jpg",
+            "fonte": "Saboresdavida.net",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 manga grande madura, sem casca, cortada em cubos</li>
+                <li>1 colher de sopa de suco de limão</li>
+                <li>2 xícaras de leite vegetal (usei leite de amêndoas que eu mesma preparei)</li>
+                <li>1/2 xícara de açúcar demerara</li>
+                <li>1 bago de cardamomo</li>
+                <li>1/2 xícara de tapioca granulada fina</li>
+                <li>2 colheres de coco fresco para polvilhar (como eu não tinha, polvilhei com amêndoas moídas)</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque a manga numa tigela com o suco de limão e reserve.</li>
+                <li>Em uma panela ferva o leite vegetal co o açúcar e as sementes do bago de cardamomo</li>
+                <li>Retire do fogo e adicione a tapioca aos poucos, sempre mexendo para não empelotar.</li>
+                <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
+                <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
+                <li>Leve à geladeira por 3 horas.</li>
+            </ol>` 
+        },
+        {
+            "id": 9,
+            "titulo": "Torta de Ricota com Geleia de Damasco",
+            "imagem": "imgs/doce12.jpg",
+            "fonte": "PetitChef",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>500g de ricota</li>
+                <li>1 colher de sopa de farinha de trigo</li>
+                <li>1 colher de sopa de manteiga</li>
+                <li>1 lata de leite condensado</li>
+                <li>1 medida lata de leite</li>
+                <li>3 gemas (claras separadas)</li>   
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
+                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
+                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
+                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
+                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
+            </ol>` 
+        },
+        {
+            "id": 10,
+            "titulo": "Churros Vegano",
+            "imagem": "imgs/doce11.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>150 ml de água.</li>
+                <li>150 ml de leite vegetal – também pode fazer com 300 ml de água</li>
+                <li>2 colheres de sopa de manteiga ghee – ou óleo de coco ou de girassol</li>
+                <li>1/2 xícara de de arroz</li>
+                <li>1/4 de xícara de farinha de grão de bico</li>
+                <li>1/4 de xícara de farinha de linhaça</li>
+                <li>1/4 de xícara de tâmaras processadas</li>
+                <li>1 pitada de sal</li>
+                <li>Canela para polvilhar</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Primeiro de tudo deixe as tâmaras de molho por umas 2-3 horas até elas ficarem bem macias, então processe elas com um pouquinho da água em que elas estavam de molho até formar um purê.</li>
+                <li>Pré-aqueça o forno a 180 graus.</li>
+                <li>Leve ao fogo o leite vegetal, a água, manteiga ghee, o sal e as tâmaras e espere ferver.</li>
+                <li>Enquanto isso misture as farinhas em um bowl e reserve.</li>
+                <li>Assim que ferver adicione as farinhas e mexa bem, com fouet ou colher de pau, até a massa começar a soltar da panela. Desligue e espere a massa esfriar.</li>
+                <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
+                <li>Asse por uns 20 minutos.</li>
+                <li>Retire do forno e passe na canela.</li>
+            </ol>` 
+        },
+        {
+            "id": 11,
+            "titulo": "Pavê de Paçoca",
+            "imagem": "imgs/doce10.jpg",
+            "fonte": "Cybercook",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 xícaras (de chá) de leite de amendoim (ou amêndoas, ou soja).</li>
+                <li>1/4 de xícara (de chá) de açúcar demerara ou cristal.</li>
+                <li>2 colheres (de chá) de essência de baunilha.</li>
+                <li>1/4 de xícara (de chá) de leite vegetal misturado com  3 colheres (de sopa) de amido de milho.</li>
+                <li>400g de paçoca esfarelada.</li>
+                <li>1 pacote de bolachas tipo maisena.</li>
+                <li>Leite vegetal para molhar as bolachas.</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela em fogo médio, coloque o leite de amendoim, o açúcar e a essência de baunilha.</li>
+                <li>Misture e deixe ferver.</li>
+                <li>Abaixe o fogo e adicione o amido de milho misturado no leite vegetal, misture e deixe engrossar.</li>
+                <li>Adicione a paçoca esfarelada e misture novamente, até ficar um creme uniforme.</li>
+                <li>Desligue e reserve. Molhe bolachas maisena em leite vegetal e coloque-as em uma travessa grande, lado a lado e cubra com uma camada de creme. Repita o procedimento, alternando bolacha e creme, finalizando com uma camada do creme.</li>
+                <li>Cubra e leve à geladeira por pelo menos 8 horas antes de servir.Se quiser, salpique resíduos de leite de amendoim torrados para servir.</li>
+                <li>Para torrar os resíduos do leite de amendoim: eu costumo espalhar eles por uma assadeira antiaderente e levo para assar em forno médio por uns 20 minutos mais ou menos, olhando sempre, mexendo para não queimarem.</li>
+            </ol>`
+        },
+        {
+            "id": 12,
+            "titulo": "Cheesecake de Maçã",
+            "imagem": "imgs/doce9.jpg",
+            "fonte": "guiadacozinha",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de castanhas do pará ou resíduo do Leite de Castanha do Pará.</li>
+                <li>1/2 xícara de água.</li>
+                <li>Suco de 1/2 limão.</li>
+                <li>2 maçãs.</li>
+                <li>1 xícara de farinha de trigo integral.</li>
+                <li>1/2 xícara de farinha de trigo branca.</li>
+                <li>5 colheres de sopa de água gelada.</li>
+                <li>1 colher de sopa de óleo de coco ou outro óleo vegetal.</li>
+                <li>1 colher de chá de canela.</li>
+                <li>1 colher se sopa de melado de cana ou açúcar ou adoçante.</li>
+                <li>Uma pitada de sal</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Misture as farinhas, a água gelada, o óleo de coco, a canela, uma pitada de sal e o melado em um bowl e misture bem. A massa deve parecer massinha de modelar. Se estiver grudenta, adicione mais farinha.</li>
+                <li>Cubra uma assadeira pequena ou forminhas menores com a massa e leve ao forno baixo por 15 minutos.</li>
+                <li>Enquanto isso, bata no liquidificador as castanhas do pará com a água fria e o suco de limão. Se utilizar o resíduo, preferencialmente bata com 1/2 xícara do próprio leite de castanha-do-pará. O creme formado deve ser bem consistente e homogêneo.</li>
+                <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
+                <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
+                <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
+            </ol>` 
         }
+
     ],
     "veganas": [
         {
@@ -1036,6 +1751,222 @@ var dados = {
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
             </ol>` 
+        },
+        {
+            "id": 10,
+            "titulo": "Brigadeiro de Inhame",
+            "imagem": "imgs/doce7.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 inhame grande cozido</li>
+                <li>1/3 de xícara de açúcar de coco</li>
+                <li>1/2 colher de chá de essência de baunilh</li>
+                <li>1/2 xícara de leite vegetal ou água do cozimento do inhame</li>
+                <li>1 colher de sopa de óleo de côco</li>
+                <li>2 xícaras (cerca de 150g) de chocolate meio amargo ralado (uso Melken da Harold</li>
+                <li>Granulado para decorar</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Bata todos os ingredientes, exceto o chocolate e o granulado, no liquidificador. Adicione o leite vegetal ou água aos pouco até formar um creme firme e homogêneo.  Esse será nosso leite condensado!
+                </li>
+                <li>Despeje o creme em uma panela, adicione o chocolate meio amargo ralado  e leve ao fogo médio até que esteja firme e desgrudando da panela.
+                </li>
+                <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
+                <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
+            </ol>` 
+        },
+        {
+            "id": 11,
+            "titulo": "Creme de Tapioca com Manga",
+            "imagem": "imgs/doce8.jpg",
+            "fonte": "Saboresdavida.net",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 manga grande madura, sem casca, cortada em cubos</li>
+                <li>1 colher de sopa de suco de limão</li>
+                <li>2 xícaras de leite vegetal (usei leite de amêndoas que eu mesma preparei)</li>
+                <li>1/2 xícara de açúcar demerara</li>
+                <li>1 bago de cardamomo</li>
+                <li>1/2 xícara de tapioca granulada fina</li>
+                <li>2 colheres de coco fresco para polvilhar (como eu não tinha, polvilhei com amêndoas moídas)</li>    
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque a manga numa tigela com o suco de limão e reserve.</li>
+                <li>Em uma panela ferva o leite vegetal co o açúcar e as sementes do bago de cardamomo</li>
+                <li>Retire do fogo e adicione a tapioca aos poucos, sempre mexendo para não empelotar.</li>
+                <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
+                <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
+                <li>Leve à geladeira por 3 horas.</li>
+            </ol>` 
+        },
+        {
+            "id": 12,
+            "titulo": "Churros Vegano",
+            "imagem": "imgs/doce11.jpg",
+            "fonte": "Veganize-se",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>150 ml de água.</li>
+                <li>150 ml de leite vegetal – também pode fazer com 300 ml de água</li>
+                <li>2 colheres de sopa de manteiga ghee – ou óleo de coco ou de girassol</li>
+                <li>1/2 xícara de de arroz</li>
+                <li>1/4 de xícara de farinha de grão de bico</li>
+                <li>1/4 de xícara de farinha de linhaça</li>
+                <li>1/4 de xícara de tâmaras processadas</li>
+                <li>1 pitada de sal</li>
+                <li>Canela para polvilhar</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Primeiro de tudo deixe as tâmaras de molho por umas 2-3 horas até elas ficarem bem macias, então processe elas com um pouquinho da água em que elas estavam de molho até formar um purê.</li>
+                <li>Pré-aqueça o forno a 180 graus.</li>
+                <li>Leve ao fogo o leite vegetal, a água, manteiga ghee, o sal e as tâmaras e espere ferver.</li>
+                <li>Enquanto isso misture as farinhas em um bowl e reserve.</li>
+                <li>Assim que ferver adicione as farinhas e mexa bem, com fouet ou colher de pau, até a massa começar a soltar da panela. Desligue e espere a massa esfriar.</li>
+                <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
+                <li>Asse por uns 20 minutos.</li>
+                <li>Retire do forno e passe na canela.</li>
+            </ol>` 
+        },
+        {
+            "id": 13,
+            "titulo": "Pavê de Paçoca",
+            "imagem": "imgs/doce10.jpg",
+            "fonte": "Cybercook",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>3 xícaras (de chá) de leite de amendoim (ou amêndoas, ou soja).</li>
+                <li>1/4 de xícara (de chá) de açúcar demerara ou cristal.</li>
+                <li>2 colheres (de chá) de essência de baunilha.</li>
+                <li>1/4 de xícara (de chá) de leite vegetal misturado com  3 colheres (de sopa) de amido de milho.</li>
+                <li>400g de paçoca esfarelada.</li>
+                <li>1 pacote de bolachas tipo maisena.</li>
+                <li>Leite vegetal para molhar as bolachas.</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela em fogo médio, coloque o leite de amendoim, o açúcar e a essência de baunilha.</li>
+                <li>Misture e deixe ferver.</li>
+                <li>Abaixe o fogo e adicione o amido de milho misturado no leite vegetal, misture e deixe engrossar.</li>
+                <li>Adicione a paçoca esfarelada e misture novamente, até ficar um creme uniforme.</li>
+                <li>Desligue e reserve. Molhe bolachas maisena em leite vegetal e coloque-as em uma travessa grande, lado a lado e cubra com uma camada de creme. Repita o procedimento, alternando bolacha e creme, finalizando com uma camada do creme.</li>
+                <li>Cubra e leve à geladeira por pelo menos 8 horas antes de servir.Se quiser, salpique resíduos de leite de amendoim torrados para servir.</li>
+                <li>Para torrar os resíduos do leite de amendoim: eu costumo espalhar eles por uma assadeira antiaderente e levo para assar em forno médio por uns 20 minutos mais ou menos, olhando sempre, mexendo para não queimarem.</li>
+            </ol>`
+        },
+        {
+            "id": 14,
+            "titulo": "Cheesecake de Maçã",
+            "imagem": "imgs/doce9.jpg",
+            "fonte": "guiadacozinha",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de castanhas do pará ou resíduo do Leite de Castanha do Pará.</li>
+                <li>1/2 xícara de água.</li>
+                <li>Suco de 1/2 limão.</li>
+                <li>2 maçãs.</li>
+                <li>1 xícara de farinha de trigo integral.</li>
+                <li>1/2 xícara de farinha de trigo branca.</li>
+                <li>5 colheres de sopa de água gelada.</li>
+                <li>1 colher de sopa de óleo de coco ou outro óleo vegetal.</li>
+                <li>1 colher de chá de canela.</li>
+                <li>1 colher se sopa de melado de cana ou açúcar ou adoçante.</li>
+                <li>Uma pitada de sal</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Misture as farinhas, a água gelada, o óleo de coco, a canela, uma pitada de sal e o melado em um bowl e misture bem. A massa deve parecer massinha de modelar. Se estiver grudenta, adicione mais farinha.</li>
+                <li>Cubra uma assadeira pequena ou forminhas menores com a massa e leve ao forno baixo por 15 minutos.</li>
+                <li>Enquanto isso, bata no liquidificador as castanhas do pará com a água fria e o suco de limão. Se utilizar o resíduo, preferencialmente bata com 1/2 xícara do próprio leite de castanha-do-pará. O creme formado deve ser bem consistente e homogêneo.</li>
+                <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
+                <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
+                <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
+            </ol>` 
+        },
+        {
+            "id": 15,
+            "titulo": "Empadão Vegano",
+            "imagem": "imgs/salgado7.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES DO RECHEIO</h5>
+            <ul>
+                <li>240 g de palmito pupunha.</li>
+                <li>150 g de vagem bem picadinha.</li>
+                <li>1 lata de seleta de legumes.</li>
+                <li>50 g de azeitona preta fatiada.</li>
+                <li>100 g de cebola.</li>
+                <li>30 ml de azeite.</li>
+                <li>2 g de orégano.</li>
+                <li>120 ml de água.</li>
+                <li>1 colher (sopa) de amido de milho.</li>
+                <li>Sal a gosto.</li>
+                <li>Pimenta-do-reino a gosto.</li>
+            </ul>
+            <h5>INGREDIENTES DA MASSA</h5>
+            <ul>
+                <li>1 caixinha de grão-de-bico.</li>
+                <li>20 ml de azeite.</li>
+                <li>Sal a gosto.</li>
+                <li>3 g de cúrcuma.</li>
+                <li>150 g de farinha de arroz</li>
+                <li>60 ml de água.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Para o recheio, refogue a cebola com azeite..</li>
+                <li>Acrescente o palmito, a vagem, a cenoura e o orégano; cozinhe com a água até que fique ao dente. Tempere com sal e pimenta.</li>
+                <li>Coloque o amido de milho dissolvido em um pouco de água, mexendo sempre até incorporar no recheio.</li>
+                <li>Acrescente a azeitona e desligue o fogo.</li>
+                <li>No processador, coloque o grão-de-bico, o azeite, sal, água e a cúrcuma; processe para misturar.</li>
+                <li>Na tigela com a farinha de arroz, adicione a mistura e mexa com a ajuda das mãos até formar uma massa firme.</li>
+                <li>Forre o fundo de pequenos recipientes com parte da massa.</li>
+                <li>Coloque o recheio.</li>
+                <li>Cubra com uma outra parte da massa.</li>
+                <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
+            </ol>` 
+        },
+        {
+            "id": 16,
+            "titulo": "Farofa de Carne de Soja",
+            "imagem": "imgs/salgado12.jpg",
+            "fonte": "Tudo Gostoso",
+            "tipo": "✅Vegano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>200 g de proteína de soja texturizada.</li>
+                <li>1 xícara de óleo.</li>
+                <li>Alho a gosto.</li>
+                <li>Cebola a gosto.</li>
+                <li>1 pacote de creme de cebola do pequeno.</li>
+                <li>1 caldo a gosto.</li>
+                <li>Se quiser pode coolocar gergelim e linhaça.</li>
+               
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
+                <li>Coloque o alho, após ele dourar.</li>
+                <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
+            </ol>` 
         }
     ],
     "vegetarianas": [
@@ -1145,7 +2076,148 @@ var dados = {
                 <li>Transfira para uma tigela untada com manteiga e enfarinhada.</li>
                 <li>Coloque o queijo parmesão ralado e leve ao forno preaquecido (180° C), por cerca de 25 minutos.</li>
             </ol>`
+        },
+        {
+            "id": 4,
+            "titulo": "Torta de Ricota com Geleia de Damasco",
+            "imagem": "imgs/doce12.jpg",
+            "fonte": "PetitChef",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>500g de ricota</li>
+                <li>1 colher de sopa de farinha de trigo</li>
+                <li>1 colher de sopa de manteiga</li>
+                <li>1 lata de leite condensado</li>
+                <li>1 medida lata de leite</li>
+                <li>3 gemas (claras separadas)</li>   
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
+                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
+                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
+                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
+                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
+            </ol>` 
+        },
+        {
+            "id": 5,
+            "titulo": "Penne Verde com Brie",
+            "imagem": "imgs/salgado8.jpg",
+            "fonte": "Catraca Livre",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 porção de penne verde.</li>
+                <li>80g de queijo brie em cubinhos.</li>
+                <li>1/3 xícara de creme de leite.</li>
+                <li>1/3 xícara de leite.</li>
+                <li>1 fio de azeite.</li>
+                <li>1/2 cebola caramelizada.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe a massa em água fervente.</li>
+                <li>Enquanto isso, aqueça o leite em fogo baixo e derreta o brie nele.</li>
+                <li>Mexa até ficar hompogêneo.</li>
+                <li>Incorpore o creme de leite.</li>
+                <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
+                <li>Para finalizar, coloque cebola caramelizada no centro.</li>
+            </ol>` 
+        },
+        {
+            "id": 6,
+            "titulo": "Escondidinho Vegetariano",
+            "imagem": "imgs/salgado9.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 maço de brócolis picado.</li>
+                <li>1/2 talo alho-poró cortado em rodelas finas.</li>
+                <li>1 vidro de palmito pequeno picado.</li>
+                <li>1 lata de milho.</li>
+                <li>Azeitonas picadas a gosto.</li>
+                <li>1 cebola picada.</li>
+                <li>1 dente de alho amassado.</li>
+                <li>1 cubo de caldo de legumes.</li>
+                <li>1/2kg de batata cozida e amassada.</li>
+                <li>1/2 xícara de chá de azeite</li>
+                <li>Parmesão ralado a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe as batatas descascadas até ficar macia e esprema como purê.</li>
+                <li>Adicione o leite vegetal, margarina e sal, misture bem e reserve.</li>
+                <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
+                <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
+                <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
+            </ol>` 
+        },
+        {
+            "id": 7,
+            "titulo": "Berinjela Recheada",
+            "imagem": "imgs/salgado10.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>300 g de ricota fresca.</li>
+                <li>1 colher de sopa de azeite de oliva.</li>
+                <li>4 talos de cebolinha fatiadas.</li>
+                <li>3/4 de xí­cara de chá de aveia em flocos.</li>
+                <li>Sal a gosto.</li>
+                <li>1 berinjela grande.</li>
+                <li>1 tomate sem sementes em cubos pequenos.</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Amasse a ricota com um garfo.</li>
+                <li>Misture bem todos os ingredientes, exceto a berinjela e divida em 4 partes iguais e reserve.</li>
+                <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
+                <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
+                <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
+            </ol>` 
+        },
+        {
+            "id": 8,
+            "titulo": "Feijoada Vegetariana",
+            "imagem": "imgs/salgado11.jpg",
+            "fonte": "Gshow",
+            "tipo": "☑️Vegetariano",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1 quilo de feijão preto cozido.</li>
+                <li>1/2 xícara de óleo para refogar a cebola.</li>
+                <li>2 berinjelas medias cortadas em cubinhos.</li>
+                <li>2 abobrinhas cortadas em cubinhos.</li>
+                <li>1 pimentão vermelho cortado em cubinhos.</li>
+                <li>1 pimentão amarelo cortado em cubinhos.</li>
+                <li>100 gramas de vagem cortada em cubinhos.</li>
+                <li>2 cenouras grandes cortadas em cubinhos.</li>
+                <li>4 batatas grandes cortada em cubinhos.</li>
+                <li>2 cubos de caldo de legumes.</li>
+                <li>1 lata de salsicha vegetal cortada em fatias.</li>
+                <li>300 gramas de proteina de soja desidratada grande</li>
+                <li>3 folhas de louro.</li>
+                <li>300 gramas de queijo provolone defumado cortado em cubinhos.</li>
+                <li>Sal a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
+                <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
+                <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
+            </ol>` 
         }
+
     ],
     "videos": [
         {
@@ -1173,7 +2245,42 @@ var dados = {
             "id":5,
             "titulo":"Estrogonofe vegetariano de cogumelos e palmito",
             "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/Hih9D7zOIKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        }
+        },
+        {
+            "id":6,
+            "titulo":"Coxinha Vegana",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/RFUtpFElgJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":7,
+            "titulo":"Sopa de Cebola",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/fUvMTQdAYMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":8,
+            "titulo":"Salada sem graça nunca mais!",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/1jbFqjZrOBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":9,
+            "titulo":"Bolo de Festa Vegano",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/K-jFRPqIKXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":10,
+            "titulo":"Mousses Veganos em apenas 5 minutos!",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/84M4-OgqGJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":11,
+            "titulo":"Hamburguer Vegetariano",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/9YjlGzhLy9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
+        {
+            "id":12,
+            "titulo":"Nuggets Vegano",
+            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/Im27PTOWxkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
+        },
     ]
 }
 
