@@ -111,6 +111,7 @@
                             <th scope="col">Endereço</th>
                             <th scope="col">Bairro</th>
                             <th scope="col">Categoria</th>
+                            <th scope="col">Navegar</th>
 
                         </tr>
                     </thead>
@@ -151,9 +152,16 @@
                 <td>${contato.email}</td>
                 <td>${contato.cidade}</td>
                 <td>${contato.categoria}</td>
+                <td><button class="NavId" href="#" onclick="abreLink('https://www.google.com/maps/place/${contato.email},+-+${contato.cidade},+Belo+Horizonte+-+MG');">Navegar</button></td>
                 </tr>`);
             }
         }
 
-    }
+    }// google maps: https://www.google.com/maps/place/${contato.email},+-+${contato.cidade},+Belo+Horizonte+-+MG
+    // here maps: 'https://wego.here.com/directions/mix//${contato.email},-${contato.cidade},-Belo-Horizonte-MG,-Brazil'
+
+
+    function abreLink(props){
+    window.open(props);
+}
 </script>
