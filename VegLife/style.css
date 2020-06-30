@@ -472,6 +472,7 @@ a.quicklink {
     background-color: #007944;
     width: 80px;
     height: 30px;
+    margin-top: 12px;
     border-style: none;
 }
 
@@ -516,6 +517,13 @@ a.quicklink {
     margin-top: 5px;
     color: black;
 }
+
+.box-receita .btnvid{
+    color: black;
+    padding: 3px;
+    font-size: 15px;
+}
+
 
 @media screen and (max-width:500px){
 

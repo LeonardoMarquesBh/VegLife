@@ -22,6 +22,8 @@ var dados = {
             "imagem": "imgs/doce1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=vPjvcMDvQtM",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -50,6 +52,8 @@ var dados = {
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid":"#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2298,6 +2302,7 @@ function exibeReceitas() {
                 <img class="thumbnail" src="${receita.imagem}" alt="">
                 <div class="creditos"><span>Fonte: ${receita.fonte}</span></div>
                 <div><p class="tipo">${receita.tipo}</p></div>
+                <div><a href="${receita.linkvid}" class="btnvid">${receita.temvid}</a></div>
                 <button id="btnModal" type="button" class="btnModal" data-toggle="modal"
                 data-target="#Modal${receita.id}">
                 <a href="#" class="card-text">Ver receita</a>
@@ -2549,7 +2554,7 @@ function exibeVegetarianas() {
 document.getElementById('btnVegetarianas').addEventListener('click', exibeVegetarianas);
 
 
-function exibeVideos() {
+/*function exibeVideos() {
     var elemMain = document.getElementById('tela');
     var textoHTML = '';
 
@@ -2572,4 +2577,4 @@ function exibeVideos() {
     elemMain.innerHTML = textoHTML;
 }
 
-document.getElementById('btnVideos').addEventListener('click', exibeVideos);
+document.getElementById('btnVideos').addEventListener('click', exibeVideos);*/
