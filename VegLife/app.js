@@ -23,7 +23,7 @@ var dados = {
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
             "temvid": "Video ▶",
-            "linkvid":"https://www.youtube.com/watch?v=vPjvcMDvQtM",
+            "linkvid": "https://www.youtube.com/watch?v=vPjvcMDvQtM",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -53,7 +53,7 @@ var dados = {
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
             "temvid": "Sem video",
-            "linkvid":"#",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -93,6 +93,8 @@ var dados = {
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -138,6 +140,8 @@ var dados = {
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -172,6 +176,8 @@ var dados = {
             "imagem": "imgs/doce4.jpg",
             "fonte": "SOS Intolerante",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=GnDdjebp54A",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -191,6 +197,8 @@ var dados = {
             "imagem": "imgs/salgado2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -219,6 +227,8 @@ var dados = {
             "imagem": "imgs/doce5.jpg",
             "fonte": "Pati Bianco",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -246,6 +256,8 @@ var dados = {
             "imagem": "imgs/salgado3.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -279,6 +291,8 @@ var dados = {
             "imagem": "imgs/salgado4.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -303,6 +317,8 @@ var dados = {
             "imagem": "imgs/salgado5.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=8QrSJ5opAHk",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -337,6 +353,8 @@ var dados = {
             "imagem": "imgs/doce6.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -364,7 +382,7 @@ var dados = {
             <ol>
                 <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
                 <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 12,
@@ -372,6 +390,8 @@ var dados = {
             "imagem": "imgs/salgado6.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -392,7 +412,7 @@ var dados = {
                 <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 13,
@@ -400,6 +420,8 @@ var dados = {
             "imagem": "imgs/doce7.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -419,7 +441,7 @@ var dados = {
                 </li>
                 <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
                 <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 14,
@@ -427,6 +449,8 @@ var dados = {
             "imagem": "imgs/doce8.jpg",
             "fonte": "Saboresdavida.net",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -446,7 +470,7 @@ var dados = {
                 <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
                 <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
                 <li>Leve à geladeira por 3 horas.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 15,
@@ -454,24 +478,35 @@ var dados = {
             "imagem": "imgs/doce12.jpg",
             "fonte": "PetitChef",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
-                <li>500g de ricota</li>
-                <li>1 colher de sopa de farinha de trigo</li>
-                <li>1 colher de sopa de manteiga</li>
-                <li>1 lata de leite condensado</li>
-                <li>1 medida lata de leite</li>
-                <li>3 gemas (claras separadas)</li>   
+                <p>MASSA:</p>
+                <li>1 pct (180 g) de biscoito maisena</li>
+                <li>½ xícara (chá) de manteiga sem sal</li>
+                <p>RECHEIO:</p>
+                <li>1 xícara (chá) leite frio</li>
+                <li>3 colheres sopa manteiga sem sal</li>
+                <li>1 ½ xícara (chá) de ricota amassada</li>
+                <li>1 xícara (chá) leite condensado</li>   
+                <li>3 ovos</li>  
+                <p>COBERTURA:</p>
+                <li>1 xícara (chá) geléia de damasco</li>  
+                <li>½ xícara (chá) de água</li>  
+                <li>damasco para decorar</li>  
+                <li>folhas de hortelã para decorar</li>  
             </ul>
             <h5>MODO DE PREPARO</h5>
             <ol>
-                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
-                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
-                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
-                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
-                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
-            </ol>` 
+                <li>Massa: Triture os biscoitos no liquidificador e misture a farofa obtida com a manteiga, mexendo bem com as mãos até formar uma textura homogênea.</li>
+                <li>Feito isso, disponha a massa obtida em uma forma de aro removível (25cm) e leve para assar em fogo baixo por 12 minutos. Reserve para esfriar.</li>
+                <li>Recheio: Leve ao fogo baixo o leite e a manteiga até ferver. A parte, bata no liquidificador, em velocidade alta, os ovos, a ricota, o leite condensado e o leite fervido por 3 minutos.</li>
+                <li>Cobertura: Leve ao fogo baixo a geléia de damasco e a água até dissolver. Mexa rapidamente e deixe até levantar fervura. Reserve.</li>
+                <li>Montagem: Despeje o recheio sobre a massa assada e retorno ao forno com temperatura baixa por 45 minutos.</li>
+                <li>Retire a torta do forno e espere amornar. Então, desenforme-a, distribua a cobertura por cima e decore com os damascos e folas de hortelã.</li>
+            </ol>`
         },
         {
             "id": 16,
@@ -479,6 +514,8 @@ var dados = {
             "imagem": "imgs/doce11.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -503,7 +540,7 @@ var dados = {
                 <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
                 <li>Asse por uns 20 minutos.</li>
                 <li>Retire do forno e passe na canela.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 17,
@@ -511,6 +548,8 @@ var dados = {
             "imagem": "imgs/doce10.jpg",
             "fonte": "Cybercook",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -538,8 +577,10 @@ var dados = {
             "id": 18,
             "titulo": "Cheesecake de Maçã",
             "imagem": "imgs/doce9.jpg",
-            "fonte": "guiadacozinha",
+            "fonte": "TVGazeta",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -564,7 +605,7 @@ var dados = {
                 <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
                 <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
                 <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 19,
@@ -572,6 +613,8 @@ var dados = {
             "imagem": "imgs/salgado7.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=IF4v7lwIW14",
             "texto": `
             <h5>INGREDIENTES DO RECHEIO</h5>
             <ul>
@@ -608,7 +651,7 @@ var dados = {
                 <li>Coloque o recheio.</li>
                 <li>Cubra com uma outra parte da massa.</li>
                 <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 20,
@@ -616,6 +659,8 @@ var dados = {
             "imagem": "imgs/salgado8.jpg",
             "fonte": "Catraca Livre",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -634,14 +679,16 @@ var dados = {
                 <li>Incorpore o creme de leite.</li>
                 <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
                 <li>Para finalizar, coloque cebola caramelizada no centro.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 21,
             "titulo": "Escondidinho Vegetariano",
             "imagem": "imgs/salgado9.jpg",
             "fonte": "mundoboaforma",
-            "tipo": "☑️Vegetariano",
+            "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -664,7 +711,7 @@ var dados = {
                 <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
                 <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
                 <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 22,
@@ -672,6 +719,8 @@ var dados = {
             "imagem": "imgs/salgado10.jpg",
             "fonte": "mundoboaforma",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -690,7 +739,7 @@ var dados = {
                 <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
                 <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
                 <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 23,
@@ -698,6 +747,8 @@ var dados = {
             "imagem": "imgs/salgado11.jpg",
             "fonte": "Gshow",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -723,7 +774,7 @@ var dados = {
                 <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
                 <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
                 <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 24,
@@ -731,6 +782,8 @@ var dados = {
             "imagem": "imgs/salgado12.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -748,9 +801,293 @@ var dados = {
                 <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
                 <li>Coloque o alho, após ele dourar.</li>
                 <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
-            </ol>` 
-        }
+            </ol>`
+        },
+        {
+            "id": 25,
+            "titulo": "Nuggets Vegano ",
+            "imagem": "imgs/receita25.jpg",
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=0PmIaeEBNZA",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+	            <li> Nuggets de milho e abóbora: </li>
+	            <li>Milho </li>
+	            <li>Abóbora </li>
+	            <li> Azeite </li>
+                <li>Sal </li>
+                <li>Páprica </li>
+                <li>Cúrcuma (açafrão) em pó</li>
+                <li> Farinha (sem glúten ou de trigo) </li>
+                <li>Pimenta do reino </li>
+                <li>Tempero fresco (usei cebolinha) </li>
+                <li>Alho - Farinha de rosca </li>
+                <li> Óleo</li>   
+            </ul>`
+        },
+        {
+            "id": 26,
+            "titulo": "Arroz À Piamontese ",
+            "imagem": "imgs/receita26.jpg", 
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=KjRftM-s01Y",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> Arroz</li>
+                <li>  Cebola</li>
+                <li> Alho</li>
+                <li>  Azeite</li>
+                <li>  Sal</li>
+                <li>  Castanha de caju</li>
+                <li>  Limão</li>
+                <li> Pimenta do reino</li>
+                <li> Levedo nutricional (opcional) </li>
+                <li> Cebolinha</li>
+                <li> Noz moscada</li>
+            </ul>`,
+        },
+        {
+            "id": 27,
+            "titulo": "Hambúrguer Vegano – Grão de bico ",
+            "imagem": "imgs/receita27.jpg", 
+            "fonte": "veganandcolors",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=qRHCi1-k4zc",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 xícara de grão-de-bico cru</li>
+                <li>  1 colher de sopa de azeite de oliva</li>
+                <li>  4 dentes de alho picados</li>
+                <li>  1 cebola grande cortada em pedaços</li>
+                <li>  1 cenoura bem pequena cortada em pedaços</li>
+                <li> 1 /4 de um pimentão vermelho </li>
+                <li>  1 colher de sopa de pasta de amendoim</li>
+                <li> maço pequeno de salsinha</li>
+                <li> 1 colher de chá de sal</li>
+                <li> ½ colher de chá de curcuma em pó (opcional)</li>
+                <li> 1 colher de chá de páprica doce </li>
+                <li> 3 colheres de sopa de farinha de trigo ou arroz para opção sem glúten</li>
+            </ul>
+            <ol>
+                <h5>Receita do cheddar</h5>
+                <li> 240 ml de leite de coco culinário (garrafinha ou lata) </li>
+                <li> 2 colheres de sopa de polvilho doce</li>
+                <li>  ½ colher de chá de alho em pó</li>
+                <li>  ½ colher de chá de páprica doce</li>
+                <li>  ¼ de colher de chá (ou ½ colherd e chá para uma cor bem 	amarelada) de curcuma em pó</li>
+                <li>  ½ colher de chá de sal</li>
+                <li> 1 colher de sopa de levedura nutricional (opcional, mas recomendo) 	</li>
+            </ol>
+            `,
+        },
+        {
+            "id": 28,
+            "titulo": " Ovos com bacon e panqueca americana",
+            "imagem": "imgs/receita28.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=RFxqtsrsdLQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h7><b>Ovo mexidio com bacon vegano</b></h7>
+                <li>  Tofu firme</li>
+                <li> Molho barbecue</li>
+                <li>  Ketchup</li>
+                <li> Azeite</li>
+                <li>  Sal</li>
+                <li> Shoyu</li>
+                <li>  Óleo</li>
+                <li>  Sal negro (opcional) </li>
+                <li>  Cúrcuma (açafrão da terra em pó) </li>
+                <li>  Pimenta do reino</li>
+                <li> Cebolinha</li>
 
+                <h7><b>Panqueca americana vegana</b></h7>
+                <li>  Farinha de arroz (ou de trigo ou mistura sem glúten) </li>
+                <li>  Farinha de linhaça e chia (ou linhaça ou chia in natura) </li>
+                <li>  Canela</li>
+                <li>  Açúcar</li>
+                <li>  Fermento em pó químico</li>
+                <li>  Essência de baunilha</li>
+                <li>  Óleo de coco (ou qualquer óleo) </li>
+                <li> Melado (para cobertura) </li>
+            </ul>`,
+        },
+        {
+            "id": 29,
+            "titulo": " Pizza de frigideira Vegana e sem glúten ",
+            "imagem": "imgs/receita29.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=uQFN3uykRnU",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+            <h5>Queijo</h5>
+            <li>Mandioquinha</li>
+            <li>Azeite</li>
+            <li>Sal</li>
+            <li>Levedo nutricional (opcional)</li>
+	
+            <h5>Massa</h5>
+	        <li>Farinha (mistura sem gúten ou de arroz ou de trigo) </li>
+	        <li>Farinha de linhaça e chia (ou linhaça ou chia) </li>
+	        <li>Sal</li>
+	        <li>Óleo</li>
+
+	        <h5>Recheio</h5>
+	        <li> Molho de tomate</li>
+	        <li> Tomate</li>
+	        <li> Orégano</li>
+	        <li> Manjericão</li>
+	        <li> Alho frito (opcional) </li>
+            </ul>`,
+        },
+        {
+            "id": 30,
+            "titulo": " Sushi Vegano ",
+            "imagem": "imgs/receita30.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=JIDohvetjM0",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h5>Arroz</h5>
+                <li> Arroz de sushi</h5>
+                <li> Vinagre  (ou mais certo é o de arroz, eu uso o que tiver) </li>
+                <li> Sal</li>
+                <li> Açúcar</li>
+	
+                <h5>Recheios (lembrando que você pode fazer com o que tiver):</h5>
+                <li> Pepino</li>
+                <li> Manga</li>
+                <li>  Tofu (usei um firme e um soft) </li>
+                <li>  Abacate</li>
+                <li>  Pimentão vermelho</li>
+                <li> Carne de coco</li>
+                <li>  Azeite</li>
+                <li>  Levedo nutricional (opcional) </li>
+                <li>  Shimeji</li>
+                <li>  Óleo de gergelim (opcional) </li>
+                <li>  Limão</li>
+                <li> Cúrcuma em pó</li>
+                <li>  Gergelim</li>
+                <li>  Cebolinha</li>
+                <li>  Shoyu</li>
+            </ul>`,
+        },
+        {
+            "id": 31,
+            "titulo": " Queijo Vegano ",
+            "imagem": "imgs/receita31.jpg", 
+            "fonte": "Mussinha",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=mov5qbqtavM",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 batata média (170g) </li>
+                <li> 1 mandioquinha média (150g) </li> 
+                <li> 1 C.S. Azeite de Oliva</li>
+                <li> 1 xic. Polvilho doce</li>
+                <li> 1 xic. Polvilho azedo</li>
+                <li> 1/2 c.c. Sal</li>
+                <li> 1 c.c. Levedura nutricional (opcional) </li>
+            </ul>`,
+        },
+        {
+            "id": 32,
+            "titulo": " Bolo de maçã e banana ",
+            "imagem": "imgs/receita32.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=c7kfswrG7Jw",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+	            <h5>Massa</h5>
+                <li> 2 maçãs  grandes, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> Suco de 1 limão</li>
+                <li> 1 colher (café) canela</li>
+                <li> 2 xícaras de farinha de trigo</li>
+                <li> 5 colheres de açúcar mascavo</li>
+                <li> 1/2 colher (chá) canela em pó</li>
+                <li> 1 colher (café) bicarbonato </li>
+                <li> 1 colher (sopa) fermento</li>
+                <li> Raspas de 1 limão</li>
+                <li> Noz moscada a gosto</li>
+                <li> 1/2 xícara de óleo de girassol</li>
+                <li> 1 xícara de água</li>
+                <li> 2 bananas maduras amassadas</li>
+                    
+                <h5>Calda</h5>
+                <li> 2 maçãs, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> 1 xícara de água</li>
+                <li> 2 colheres de açúcar demerara ou mascavo</li>
+                <li> 1 colher (café) canela</li>
+                <li> Suco de 1/2 limão</li>
+            </ul>`,
+        },
+        {
+            "id": 33,
+            "titulo": " Bolo de festa vegano ",
+            "imagem": "imgs/receita33.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=K-jFRPqIKXQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h5>Massa</h5>
+                <li> 2 xícaras de farinha de trigo - ainda não fizemos essa receita na versão sem 	glúten</li>
+                <li>3/4 de açúcar demerara - ou outro tipo de açúcar</li>
+                <li>1 pitada de sal</li>
+                <li>1 colher (sopa) cacau em pó  - usamos o 100%</li>
+                <li>2 colheres (sopa) achocolatado - usamos o da marca Organic</li>
+                <li>1 colher (sopa) fermento químico</li>
+                <li>1/2 xícara de óleo de girassol - ou qualquer óleo vegetal</li>
+                <li>1 + 1/3  xícaras de água </li>
+                <li>1 colher (sopa) vinagre de maçã - ou de vinagre de álcool, arroz... </li>
+                <li>* 1 colher (sobremesa) de essência de baunilha  (opcional) </li>
+                <li>* Óleo e farinha para untar </li>
+                <li>* Forma pequena (18cm) - para cada massa</li>
+                
+                <h5>Creme de chocolate</h5>
+                <li> 350ml de leite de soja - ou leite de amêndoas</li>
+                <li> 4 colheres (sopa) de açúcar demerara - ou qualquer outro tipo de açúcar</li>
+                <li> 1 colher (sopa) achocolatado - usamos o da marca Organic</li>
+                <li> 1 colher (sopa) cacau - usamos 100% </li>
+                <li> 2 colheres (sopa) amido de milho + 2 colheres (sopa) de leite de soja</li>
+                    
+                <h5>Para molhar o bolo</h5>
+                <li> 1/2 xícara de leite de soja</li>
+                <li> 1 colher (sopa) de achocolatado  - usamos o da marca Organic</li>
+
+                <h5>Ganache</h5>
+                <li> 80g de chocolate meio amargo -  usamos o 70% da marca NutraWell</li>
+                <li> 10 colheres (sopa) de leite com achocolatado - feito anteriormente </li>
+                <li> * 2 bandejas de morango</li>
+                <li> * chocolate ralado ou em lascas para decorar </li>
+                <li> * açúcar de confeiteiro</li>
+                <li> * confeitos mil</li>
+            </ul>`,
+        }
     ],
     "salgados": [
         {
@@ -759,6 +1096,8 @@ var dados = {
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -804,6 +1143,8 @@ var dados = {
             "imagem": "imgs/salgado2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -832,6 +1173,8 @@ var dados = {
             "imagem": "imgs/salgado3.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -865,6 +1208,8 @@ var dados = {
             "imagem": "imgs/salgado4.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -889,6 +1234,8 @@ var dados = {
             "imagem": "imgs/salgado5.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=8QrSJ5opAHk",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -923,6 +1270,8 @@ var dados = {
             "imagem": "imgs/salgado6.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -943,7 +1292,7 @@ var dados = {
                 <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 7,
@@ -951,6 +1300,8 @@ var dados = {
             "imagem": "imgs/salgado7.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=IF4v7lwIW14",
             "texto": `
             <h5>INGREDIENTES DO RECHEIO</h5>
             <ul>
@@ -987,7 +1338,7 @@ var dados = {
                 <li>Coloque o recheio.</li>
                 <li>Cubra com uma outra parte da massa.</li>
                 <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 8,
@@ -995,6 +1346,8 @@ var dados = {
             "imagem": "imgs/salgado8.jpg",
             "fonte": "Catraca Livre",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1013,14 +1366,16 @@ var dados = {
                 <li>Incorpore o creme de leite.</li>
                 <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
                 <li>Para finalizar, coloque cebola caramelizada no centro.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 9,
             "titulo": "Escondidinho Vegetariano",
             "imagem": "imgs/salgado9.jpg",
             "fonte": "mundoboaforma",
-            "tipo": "☑️Vegetariano",
+            "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1043,7 +1398,7 @@ var dados = {
                 <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
                 <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
                 <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 10,
@@ -1051,6 +1406,8 @@ var dados = {
             "imagem": "imgs/salgado10.jpg",
             "fonte": "mundoboaforma",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1069,7 +1426,7 @@ var dados = {
                 <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
                 <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
                 <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 11,
@@ -1077,6 +1434,8 @@ var dados = {
             "imagem": "imgs/salgado11.jpg",
             "fonte": "Gshow",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1102,7 +1461,7 @@ var dados = {
                 <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
                 <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
                 <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 12,
@@ -1110,6 +1469,8 @@ var dados = {
             "imagem": "imgs/salgado12.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1127,7 +1488,212 @@ var dados = {
                 <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
                 <li>Coloque o alho, após ele dourar.</li>
                 <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
-            </ol>` 
+            </ol>`
+        },
+        {
+            "id": 13,
+            "titulo": "Nuggets Vegano ",
+            "imagem": "imgs/receita25.jpg",
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=0PmIaeEBNZA",
+            "texto": `<h5>INGREDIENTES</h5>
+            <ul>
+	            <li> Nuggets de milho e abóbora: </li>
+	            <li>Milho </li>
+	            <li>Abóbora </li>
+	            <li> Azeite </li>
+                <li>Sal </li>
+                <li>Páprica </li>
+                <li>Cúrcuma (açafrão) em pó</li>
+                <li> Farinha (sem glúten ou de trigo) </li>
+                <li>Pimenta do reino </li>
+                <li>Tempero fresco (usei cebolinha) </li>
+                <li>Alho - Farinha de rosca </li>
+                <li> Óleo</li>   
+            </ul>`
+        },
+        {
+            "id": 14,
+            "titulo": "Arroz À Piamontese ",
+            "imagem": "imgs/receita26.jpg", 
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=KjRftM-s01Y",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> Arroz</li>
+                <li>  Cebola</li>
+                <li> Alho</li>
+                <li>  Azeite</li>
+                <li>  Sal</li>
+                <li>  Castanha de caju</li>
+                <li>  Limão</li>
+                <li> Pimenta do reino</li>
+                <li> Levedo nutricional (opcional) </li>
+                <li> Cebolinha</li>
+                <li> Noz moscada</li>
+            </ul>`,
+        },
+        {
+            "id": 15,
+            "titulo": "Hambúrguer Vegano – Grão de bico ",
+            "imagem": "imgs/receita27.jpg", 
+            "fonte": "veganandcolors",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=qRHCi1-k4zc",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 xícara de grão-de-bico cru</li>
+                <li>  1 colher de sopa de azeite de oliva</li>
+                <li>  4 dentes de alho picados</li>
+                <li>  1 cebola grande cortada em pedaços</li>
+                <li>  1 cenoura bem pequena cortada em pedaços</li>
+                <li> 1 /4 de um pimentão vermelho </li>
+                <li>  1 colher de sopa de pasta de amendoim</li>
+                <li> maço pequeno de salsinha</li>
+                <li> 1 colher de chá de sal</li>
+                <li> ½ colher de chá de curcuma em pó (opcional)</li>
+                <li> 1 colher de chá de páprica doce </li>
+                <li> 3 colheres de sopa de farinha de trigo ou arroz para opção sem glúten</li>
+            </ul>
+            <ol>
+                <h5>Receita do cheddar</h5>
+                <li> 240 ml de leite de coco culinário (garrafinha ou lata) </li>
+                <li> 2 colheres de sopa de polvilho doce</li>
+                <li>  ½ colher de chá de alho em pó</li>
+                <li>  ½ colher de chá de páprica doce</li>
+                <li>  ¼ de colher de chá (ou ½ colherd e chá para uma cor bem 	amarelada) de curcuma em pó</li>
+                <li>  ½ colher de chá de sal</li>
+                <li> 1 colher de sopa de levedura nutricional (opcional, mas recomendo) 	</li>
+            </ol>
+            `,
+        },
+        {
+            "id": 16,
+            "titulo": " Ovos com bacon e panqueca americana",
+            "imagem": "imgs/receita28.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=RFxqtsrsdLQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h7><b>Ovo mexidio com bacon vegano</b></h7>
+                <li>  Tofu firme</li>
+                <li> Molho barbecue</li>
+                <li>  Ketchup</li>
+                <li> Azeite</li>
+                <li>  Sal</li>
+                <li> Shoyu</li>
+                <li>  Óleo</li>
+                <li>  Sal negro (opcional) </li>
+                <li>  Cúrcuma (açafrão da terra em pó) </li>
+                <li>  Pimenta do reino</li>
+                <li> Cebolinha</li>
+
+                <h7><b>Panqueca americana vegana</b></h7>
+                <li>  Farinha de arroz (ou de trigo ou mistura sem glúten) </li>
+                <li>  Farinha de linhaça e chia (ou linhaça ou chia in natura) </li>
+                <li>  Canela</li>
+                <li>  Açúcar</li>
+                <li>  Fermento em pó químico</li>
+                <li>  Essência de baunilha</li>
+                <li>  Óleo de coco (ou qualquer óleo) </li>
+                <li> Melado (para cobertura) </li>
+            </ul>`,
+        },
+        {
+            "id": 17,
+            "titulo": " Pizza de frigideira Vegana e sem glúten ",
+            "imagem": "imgs/receita29.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=uQFN3uykRnU",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+            <h5>Queijo</h5>
+            <li>Mandioquinha</li>
+            <li>Azeite</li>
+            <li>Sal</li>
+            <li>Levedo nutricional (opcional)</li>
+	
+            <h5>Massa</h5>
+	        <li>Farinha (mistura sem gúten ou de arroz ou de trigo) </li>
+	        <li>Farinha de linhaça e chia (ou linhaça ou chia) </li>
+	        <li>Sal</li>
+	        <li>Óleo</li>
+
+	        <h5>Recheio</h5>
+	        <li> Molho de tomate</li>
+	        <li> Tomate</li>
+	        <li> Orégano</li>
+	        <li> Manjericão</li>
+	        <li> Alho frito (opcional) </li>
+            </ul>`,
+        },
+        {
+            "id": 18,
+            "titulo": " Sushi Vegano ",
+            "imagem": "imgs/receita30.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=JIDohvetjM0",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h5>Arroz</h5>
+                <li> Arroz de sushi</h5>
+                <li> Vinagre  (ou mais certo é o de arroz, eu uso o que tiver) </li>
+                <li> Sal</li>
+                <li> Açúcar</li>
+	
+                <h5>Recheios (lembrando que você pode fazer com o que tiver):</h5>
+                <li> Pepino</li>
+                <li> Manga</li>
+                <li>  Tofu (usei um firme e um soft) </li>
+                <li>  Abacate</li>
+                <li>  Pimentão vermelho</li>
+                <li> Carne de coco</li>
+                <li>  Azeite</li>
+                <li>  Levedo nutricional (opcional) </li>
+                <li>  Shimeji</li>
+                <li>  Óleo de gergelim (opcional) </li>
+                <li>  Limão</li>
+                <li> Cúrcuma em pó</li>
+                <li>  Gergelim</li>
+                <li>  Cebolinha</li>
+                <li>  Shoyu</li>
+            </ul>`,
+        },
+        {
+            "id": 19,
+            "titulo": " Queijo Vegano ",
+            "imagem": "imgs/receita31.jpg", 
+            "fonte": "Mussinha",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=mov5qbqtavM",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 batata média (170g) </li>
+                <li> 1 mandioquinha média (150g) </li> 
+                <li> 1 C.S. Azeite de Oliva</li>
+                <li> 1 xic. Polvilho doce</li>
+                <li> 1 xic. Polvilho azedo</li>
+                <li> 1/2 c.c. Sal</li>
+                <li> 1 c.c. Levedura nutricional (opcional) </li>
+            </ul>`,
         }
 
     ],
@@ -1138,6 +1704,8 @@ var dados = {
             "imagem": "imgs/doce1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=vPjvcMDvQtM",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1166,6 +1734,8 @@ var dados = {
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1205,6 +1775,8 @@ var dados = {
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1239,6 +1811,8 @@ var dados = {
             "imagem": "imgs/doce4.jpg",
             "fonte": "SOS Intolerante",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=GnDdjebp54A",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1258,6 +1832,8 @@ var dados = {
             "imagem": "imgs/doce5.jpg",
             "fonte": "Pati Bianco",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1285,6 +1861,8 @@ var dados = {
             "imagem": "imgs/doce6.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1312,7 +1890,7 @@ var dados = {
             <ol>
                 <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
                 <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 7,
@@ -1320,6 +1898,8 @@ var dados = {
             "imagem": "imgs/doce7.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1339,7 +1919,7 @@ var dados = {
                 </li>
                 <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
                 <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 8,
@@ -1347,6 +1927,8 @@ var dados = {
             "imagem": "imgs/doce8.jpg",
             "fonte": "Saboresdavida.net",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1366,7 +1948,7 @@ var dados = {
                 <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
                 <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
                 <li>Leve à geladeira por 3 horas.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 9,
@@ -1374,24 +1956,35 @@ var dados = {
             "imagem": "imgs/doce12.jpg",
             "fonte": "PetitChef",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
-                <li>500g de ricota</li>
-                <li>1 colher de sopa de farinha de trigo</li>
-                <li>1 colher de sopa de manteiga</li>
-                <li>1 lata de leite condensado</li>
-                <li>1 medida lata de leite</li>
-                <li>3 gemas (claras separadas)</li>   
+                <p>MASSA:</p>
+                <li>1 pct (180 g) de biscoito maisena</li>
+                <li>½ xícara (chá) de manteiga sem sal</li>
+                <p>RECHEIO:</p>
+                <li>1 xícara (chá) leite frio</li>
+                <li>3 colheres sopa manteiga sem sal</li>
+                <li>1 ½ xícara (chá) de ricota amassada</li>
+                <li>1 xícara (chá) leite condensado</li>   
+                <li>3 ovos</li>  
+                <p>COBERTURA:</p>
+                <li>1 xícara (chá) geléia de damasco</li>  
+                <li>½ xícara (chá) de água</li>  
+                <li>damasco para decorar</li>  
+                <li>folhas de hortelã para decorar</li>  
             </ul>
             <h5>MODO DE PREPARO</h5>
             <ol>
-                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
-                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
-                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
-                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
-                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
-            </ol>` 
+                <li>Massa: Triture os biscoitos no liquidificador e misture a farofa obtida com a manteiga, mexendo bem com as mãos até formar uma textura homogênea.</li>
+                <li>Feito isso, disponha a massa obtida em uma forma de aro removível (25cm) e leve para assar em fogo baixo por 12 minutos. Reserve para esfriar.</li>
+                <li>Recheio: Leve ao fogo baixo o leite e a manteiga até ferver. A parte, bata no liquidificador, em velocidade alta, os ovos, a ricota, o leite condensado e o leite fervido por 3 minutos.</li>
+                <li>Cobertura: Leve ao fogo baixo a geléia de damasco e a água até dissolver. Mexa rapidamente e deixe até levantar fervura. Reserve.</li>
+                <li>Montagem: Despeje o recheio sobre a massa assada e retorno ao forno com temperatura baixa por 45 minutos.</li>
+                <li>Retire a torta do forno e espere amornar. Então, desenforme-a, distribua a cobertura por cima e decore com os damascos e folas de hortelã.</li>
+            </ol>`
         },
         {
             "id": 10,
@@ -1399,6 +1992,8 @@ var dados = {
             "imagem": "imgs/doce11.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1423,7 +2018,7 @@ var dados = {
                 <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
                 <li>Asse por uns 20 minutos.</li>
                 <li>Retire do forno e passe na canela.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 11,
@@ -1431,6 +2026,8 @@ var dados = {
             "imagem": "imgs/doce10.jpg",
             "fonte": "Cybercook",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1458,8 +2055,10 @@ var dados = {
             "id": 12,
             "titulo": "Cheesecake de Maçã",
             "imagem": "imgs/doce9.jpg",
-            "fonte": "guiadacozinha",
+            "fonte": "TVGazeta",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1484,7 +2083,86 @@ var dados = {
                 <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
                 <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
                 <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
-            </ol>` 
+            </ol>`
+        },
+        {
+            "id": 13,
+            "titulo": " Bolo de maçã e banana ",
+            "imagem": "imgs/receita32.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=c7kfswrG7Jw",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+	            <h5>Massa</h5>
+                <li> 2 maçãs  grandes, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> Suco de 1 limão</li>
+                <li> 1 colher (café) canela</li>
+                <li> 2 xícaras de farinha de trigo</li>
+                <li> 5 colheres de açúcar mascavo</li>
+                <li> 1/2 colher (chá) canela em pó</li>
+                <li> 1 colher (café) bicarbonato </li>
+                <li> 1 colher (sopa) fermento</li>
+                <li> Raspas de 1 limão</li>
+                <li> Noz moscada a gosto</li>
+                <li> 1/2 xícara de óleo de girassol</li>
+                <li> 1 xícara de água</li>
+                <li> 2 bananas maduras amassadas</li>
+                    
+                <h5>Calda</h5>
+                <li> 2 maçãs, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> 1 xícara de água</li>
+                <li> 2 colheres de açúcar demerara ou mascavo</li>
+                <li> 1 colher (café) canela</li>
+                <li> Suco de 1/2 limão</li>
+            </ul>`,
+        },
+        {
+            "id": 14,
+            "titulo": " Bolo de festa vegano ",
+            "imagem": "imgs/receita33.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=K-jFRPqIKXQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h5>Massa</h5>
+                <li> 2 xícaras de farinha de trigo - ainda não fizemos essa receita na versão sem 	glúten</li>
+                <li>3/4 de açúcar demerara - ou outro tipo de açúcar</li>
+                <li>1 pitada de sal</li>
+                <li>1 colher (sopa) cacau em pó  - usamos o 100%</li>
+                <li>2 colheres (sopa) achocolatado - usamos o da marca Organic</li>
+                <li>1 colher (sopa) fermento químico</li>
+                <li>1/2 xícara de óleo de girassol - ou qualquer óleo vegetal</li>
+                <li>1 + 1/3  xícaras de água </li>
+                <li>1 colher (sopa) vinagre de maçã - ou de vinagre de álcool, arroz... </li>
+                <li>* 1 colher (sobremesa) de essência de baunilha  (opcional) </li>
+                <li>* Óleo e farinha para untar </li>
+                <li>* Forma pequena (18cm) - para cada massa</li>
+                
+                <h5>Creme de chocolate</h5>
+                <li> 350ml de leite de soja - ou leite de amêndoas</li>
+                <li> 4 colheres (sopa) de açúcar demerara - ou qualquer outro tipo de açúcar</li>
+                <li> 1 colher (sopa) achocolatado - usamos o da marca Organic</li>
+                <li> 1 colher (sopa) cacau - usamos 100% </li>
+                <li> 2 colheres (sopa) amido de milho + 2 colheres (sopa) de leite de soja</li>
+                    
+                <h5>Para molhar o bolo</h5>
+                <li> 1/2 xícara de leite de soja</li>
+                <li> 1 colher (sopa) de achocolatado  - usamos o da marca Organic</li>
+
+                <h5>Ganache</h5>
+                <li> 80g de chocolate meio amargo -  usamos o 70% da marca NutraWell</li>
+                <li> 10 colheres (sopa) de leite com achocolatado - feito anteriormente </li>
+                <li> * 2 bandejas de morango</li>
+                <li> * chocolate ralado ou em lascas para decorar </li>
+                <li> * açúcar de confeiteiro</li>
+                <li> * confeitos mil</li>
+            </ul>`,
         }
 
     ],
@@ -1495,6 +2173,8 @@ var dados = {
             "imagem": "imgs/doce1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=vPjvcMDvQtM",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1523,6 +2203,8 @@ var dados = {
             "imagem": "imgs/doce2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1562,6 +2244,8 @@ var dados = {
             "imagem": "imgs/doce3.jpg",
             "fonte": "MiMi Veg",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1596,6 +2280,8 @@ var dados = {
             "imagem": "imgs/doce4.jpg",
             "fonte": "S.O.S Intolerante",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=GnDdjebp54A",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1615,6 +2301,8 @@ var dados = {
             "imagem": "imgs/doce5.jpg",
             "fonte": "Pati Bianco",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1642,6 +2330,8 @@ var dados = {
             "imagem": "imgs/salgado3.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1675,6 +2365,8 @@ var dados = {
             "imagem": "imgs/salgado4.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1699,6 +2391,8 @@ var dados = {
             "imagem": "imgs/doce6.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1726,7 +2420,7 @@ var dados = {
             <ol>
                 <li>Em uma panelinha misture todos os ingredientes, leve ao fogo até que forme uma calda lisa, sem pedaços.</li>
                 <li>Reserve a calda e a despeje sobre o bolo tão logo o tire do forno.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 9,
@@ -1734,6 +2428,8 @@ var dados = {
             "imagem": "imgs/salgado6.jpg",
             "fonte": "Jornada Vegana",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1754,7 +2450,7 @@ var dados = {
                 <li>Misture bem, adicione o shoyu e deixe cozinhar por 3 min. e coloque temperos de sua preferência.</li>
                 <li>Coloque as abobrinhas num tabuleiro, acrescente o recheio e regue com um pouco de azeite por cima.</li>
                 <li>Leve ao forno pré-aquecido, a 180°C por 20 min</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 10,
@@ -1762,6 +2458,8 @@ var dados = {
             "imagem": "imgs/doce7.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1781,7 +2479,7 @@ var dados = {
                 </li>
                 <li>Deixe esfriar, faça bolinhas e passe no granulado.</li>
                 <li>Obs: Para o leite vegetal, se utilizar leite de coco industrializado, dilua uma porção de leite em 3 porções de água, pois tem sabor muito forte.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 11,
@@ -1789,6 +2487,8 @@ var dados = {
             "imagem": "imgs/doce8.jpg",
             "fonte": "Saboresdavida.net",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1808,7 +2508,7 @@ var dados = {
                 <li>Deixe hidratar por uns 15 minutos ou até ficar macia.</li>
                 <li>Monte em taças, alternando as camadas de tapioca e de manga, terminando com a tapioca. </li>
                 <li>Leve à geladeira por 3 horas.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 12,
@@ -1816,6 +2516,8 @@ var dados = {
             "imagem": "imgs/doce11.jpg",
             "fonte": "Veganize-se",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1840,7 +2542,7 @@ var dados = {
                 <li>Com saco de confeitar e o bico pitanga comece a dispor seus churros em uma assadeira coberta com silplat ou papel manteiga.</li>
                 <li>Asse por uns 20 minutos.</li>
                 <li>Retire do forno e passe na canela.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 13,
@@ -1848,6 +2550,8 @@ var dados = {
             "imagem": "imgs/doce10.jpg",
             "fonte": "Cybercook",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1875,8 +2579,10 @@ var dados = {
             "id": 14,
             "titulo": "Cheesecake de Maçã",
             "imagem": "imgs/doce9.jpg",
-            "fonte": "guiadacozinha",
+            "fonte": "TVGazeta",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1901,7 +2607,7 @@ var dados = {
                 <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
                 <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
                 <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 15,
@@ -1909,6 +2615,8 @@ var dados = {
             "imagem": "imgs/salgado7.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=IF4v7lwIW14",
             "texto": `
             <h5>INGREDIENTES DO RECHEIO</h5>
             <ul>
@@ -1945,7 +2653,7 @@ var dados = {
                 <li>Coloque o recheio.</li>
                 <li>Cubra com uma outra parte da massa.</li>
                 <li>Leve forno preaquecido a 180° C por aproximadamente 30 minutos.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 16,
@@ -1953,6 +2661,8 @@ var dados = {
             "imagem": "imgs/salgado12.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -1970,7 +2680,322 @@ var dados = {
                 <li>Coloque em uma panela quente o óleo com a cebola, quando ela dourar e tiver na cozinha aquele cheirinho bom..</li>
                 <li>Coloque o alho, após ele dourar.</li>
                 <li>Coloque a proteína de soja, eles vão ficar fritando, quando estiver bem frita (ela muda de cor), coloque os outros ingredientes.</li>
-            </ol>` 
+            </ol>`
+        },
+        {
+            "id": 17,
+            "titulo": "Escondidinho Vegetariano",
+            "imagem": "imgs/salgado9.jpg",
+            "fonte": "mundoboaforma",
+            "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>1 maço de brócolis picado.</li>
+                <li>1/2 talo alho-poró cortado em rodelas finas.</li>
+                <li>1 vidro de palmito pequeno picado.</li>
+                <li>1 lata de milho.</li>
+                <li>Azeitonas picadas a gosto.</li>
+                <li>1 cebola picada.</li>
+                <li>1 dente de alho amassado.</li>
+                <li>1 cubo de caldo de legumes.</li>
+                <li>1/2kg de batata cozida e amassada.</li>
+                <li>1/2 xícara de chá de azeite</li>
+                <li>Parmesão ralado a gosto</li>
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Cozinhe as batatas descascadas até ficar macia e esprema como purê.</li>
+                <li>Adicione o leite vegetal, margarina e sal, misture bem e reserve.</li>
+                <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
+                <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
+                <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
+            </ol>`
+        },
+        {
+            "id": 18,
+            "titulo": "Nuggets Vegano ",
+            "imagem": "imgs/receita25.jpg",
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=0PmIaeEBNZA",
+            "texto": `<h5>INGREDIENTES</h5>
+            <ul>
+	            <li> Nuggets de milho e abóbora: </li>
+	            <li>Milho </li>
+	            <li>Abóbora </li>
+	            <li> Azeite </li>
+                <li>Sal </li>
+                <li>Páprica </li>
+                <li>Cúrcuma (açafrão) em pó</li>
+                <li> Farinha (sem glúten ou de trigo) </li>
+                <li>Pimenta do reino </li>
+                <li>Tempero fresco (usei cebolinha) </li>
+                <li>Alho - Farinha de rosca </li>
+                <li> Óleo</li>   
+            </ul>`
+        },
+        {
+            "id": 19,
+            "titulo": "Arroz À Piamontese ",
+            "imagem": "imgs/receita26.jpg", 
+            "fonte": "Larica Vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=KjRftM-s01Y",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> Arroz</li>
+                <li>  Cebola</li>
+                <li> Alho</li>
+                <li>  Azeite</li>
+                <li>  Sal</li>
+                <li>  Castanha de caju</li>
+                <li>  Limão</li>
+                <li> Pimenta do reino</li>
+                <li> Levedo nutricional (opcional) </li>
+                <li> Cebolinha</li>
+                <li> Noz moscada</li>
+            </ul>`,
+        },
+        {
+            "id": 20,
+            "titulo": "Hambúrguer Vegano – Grão de bico ",
+            "imagem": "imgs/receita27.jpg", 
+            "fonte": "veganandcolors",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=qRHCi1-k4zc",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 xícara de grão-de-bico cru</li>
+                <li>  1 colher de sopa de azeite de oliva</li>
+                <li>  4 dentes de alho picados</li>
+                <li>  1 cebola grande cortada em pedaços</li>
+                <li>  1 cenoura bem pequena cortada em pedaços</li>
+                <li> 1 /4 de um pimentão vermelho </li>
+                <li>  1 colher de sopa de pasta de amendoim</li>
+                <li> maço pequeno de salsinha</li>
+                <li> 1 colher de chá de sal</li>
+                <li> ½ colher de chá de curcuma em pó (opcional)</li>
+                <li> 1 colher de chá de páprica doce </li>
+                <li> 3 colheres de sopa de farinha de trigo ou arroz para opção sem glúten</li>
+            </ul>
+            <ol>
+                <h5>Receita do cheddar</h5>
+                <li> 240 ml de leite de coco culinário (garrafinha ou lata) </li>
+                <li> 2 colheres de sopa de polvilho doce</li>
+                <li>  ½ colher de chá de alho em pó</li>
+                <li>  ½ colher de chá de páprica doce</li>
+                <li>  ¼ de colher de chá (ou ½ colherd e chá para uma cor bem 	amarelada) de curcuma em pó</li>
+                <li>  ½ colher de chá de sal</li>
+                <li> 1 colher de sopa de levedura nutricional (opcional, mas recomendo) 	</li>
+            </ol>
+            `,
+        },
+        {
+            "id": 21,
+            "titulo": " Ovos com bacon e panqueca americana",
+            "imagem": "imgs/receita28.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=RFxqtsrsdLQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h7><b>Ovo mexidio com bacon vegano</b></h7>
+                <li>  Tofu firme</li>
+                <li> Molho barbecue</li>
+                <li>  Ketchup</li>
+                <li> Azeite</li>
+                <li>  Sal</li>
+                <li> Shoyu</li>
+                <li>  Óleo</li>
+                <li>  Sal negro (opcional) </li>
+                <li>  Cúrcuma (açafrão da terra em pó) </li>
+                <li>  Pimenta do reino</li>
+                <li> Cebolinha</li>
+
+                <h7><b>Panqueca americana vegana</b></h7>
+                <li>  Farinha de arroz (ou de trigo ou mistura sem glúten) </li>
+                <li>  Farinha de linhaça e chia (ou linhaça ou chia in natura) </li>
+                <li>  Canela</li>
+                <li>  Açúcar</li>
+                <li>  Fermento em pó químico</li>
+                <li>  Essência de baunilha</li>
+                <li>  Óleo de coco (ou qualquer óleo) </li>
+                <li> Melado (para cobertura) </li>
+            </ul>`,
+        },
+        {
+            "id": 22,
+            "titulo": " Pizza de frigideira Vegana e sem glúten ",
+            "imagem": "imgs/receita29.jpg", 
+            "fonte": "larica vegana",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=uQFN3uykRnU",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+            <h5>Queijo</h5>
+            <li>Mandioquinha</li>
+            <li>Azeite</li>
+            <li>Sal</li>
+            <li>Levedo nutricional (opcional)</li>
+	
+            <h5>Massa</h5>
+	        <li>Farinha (mistura sem gúten ou de arroz ou de trigo) </li>
+	        <li>Farinha de linhaça e chia (ou linhaça ou chia) </li>
+	        <li>Sal</li>
+	        <li>Óleo</li>
+
+	        <h5>Recheio</h5>
+	        <li> Molho de tomate</li>
+	        <li> Tomate</li>
+	        <li> Orégano</li>
+	        <li> Manjericão</li>
+	        <li> Alho frito (opcional) </li>
+            </ul>`,
+        },
+        {
+            "id": 23,
+            "titulo": "Cheesecake de Maçã",
+            "imagem": "imgs/doce9.jpg",
+            "fonte": "TVGazeta",
+            "tipo": "✅Vegano",
+            "temvid": "Sem video",
+            "linkvid": "#",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li>2 xícaras de castanhas do pará ou resíduo do Leite de Castanha do Pará.</li>
+                <li>1/2 xícara de água.</li>
+                <li>Suco de 1/2 limão.</li>
+                <li>2 maçãs.</li>
+                <li>1 xícara de farinha de trigo integral.</li>
+                <li>1/2 xícara de farinha de trigo branca.</li>
+                <li>5 colheres de sopa de água gelada.</li>
+                <li>1 colher de sopa de óleo de coco ou outro óleo vegetal.</li>
+                <li>1 colher de chá de canela.</li>
+                <li>1 colher se sopa de melado de cana ou açúcar ou adoçante.</li>
+                <li>Uma pitada de sal</li>
+
+            </ul>
+            <h5>MODO DE PREPARO</h5>
+            <ol>
+                <li>Misture as farinhas, a água gelada, o óleo de coco, a canela, uma pitada de sal e o melado em um bowl e misture bem. A massa deve parecer massinha de modelar. Se estiver grudenta, adicione mais farinha.</li>
+                <li>Cubra uma assadeira pequena ou forminhas menores com a massa e leve ao forno baixo por 15 minutos.</li>
+                <li>Enquanto isso, bata no liquidificador as castanhas do pará com a água fria e o suco de limão. Se utilizar o resíduo, preferencialmente bata com 1/2 xícara do próprio leite de castanha-do-pará. O creme formado deve ser bem consistente e homogêneo.</li>
+                <li>Retire as forminhas do forno e preencha com o creme de castanha-do-pará. Leve à geladeira.</li>
+                <li>Pique as maças com casca em cubinhos. Leve ao fogo médio em uma frigideira com um pouco de melado. Quando todos os cubinhos estiverem caramelizados retire do fogo e cubra os mini-cheesecakes.</li>
+                <li>Leve a geladeira e sirva frio. Rende 4 mini-cheesecakes.</li>
+            </ol>`
+        },
+        {
+            "id": 24,
+            "titulo": " Queijo Vegano ",
+            "imagem": "imgs/receita31.jpg", 
+            "fonte": "Mussinha",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=mov5qbqtavM",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <li> 1 batata média (170g) </li>
+                <li> 1 mandioquinha média (150g) </li> 
+                <li> 1 C.S. Azeite de Oliva</li>
+                <li> 1 xic. Polvilho doce</li>
+                <li> 1 xic. Polvilho azedo</li>
+                <li> 1/2 c.c. Sal</li>
+                <li> 1 c.c. Levedura nutricional (opcional) </li>
+            </ul>`,
+        },
+        {
+            "id": 25,
+            "titulo": " Bolo de maçã e banana ",
+            "imagem": "imgs/receita32.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=c7kfswrG7Jw",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+	            <h5>Massa</h5>
+                <li> 2 maçãs  grandes, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> Suco de 1 limão</li>
+                <li> 1 colher (café) canela</li>
+                <li> 2 xícaras de farinha de trigo</li>
+                <li> 5 colheres de açúcar mascavo</li>
+                <li> 1/2 colher (chá) canela em pó</li>
+                <li> 1 colher (café) bicarbonato </li>
+                <li> 1 colher (sopa) fermento</li>
+                <li> Raspas de 1 limão</li>
+                <li> Noz moscada a gosto</li>
+                <li> 1/2 xícara de óleo de girassol</li>
+                <li> 1 xícara de água</li>
+                <li> 2 bananas maduras amassadas</li>
+                    
+                <h5>Calda</h5>
+                <li> 2 maçãs, sem casca e em cubos - usamos 1 Fuij e 1 verde</li>
+                <li> 1 xícara de água</li>
+                <li> 2 colheres de açúcar demerara ou mascavo</li>
+                <li> 1 colher (café) canela</li>
+                <li> Suco de 1/2 limão</li>
+            </ul>`,
+        },
+        {
+            "id": 26,
+            "titulo": " Bolo de festa vegano ",
+            "imagem": "imgs/receita33.jpg", 
+            "fonte": "Ta na mesa vegg",
+            "tipo": "✅Vegano",
+            "temvid": "Video ▶",
+            "linkvid":"https://www.youtube.com/watch?v=K-jFRPqIKXQ",
+            "texto": `
+            <h5>INGREDIENTES</h5>
+            <ul>
+                <h5>Massa</h5>
+                <li> 2 xícaras de farinha de trigo - ainda não fizemos essa receita na versão sem 	glúten</li>
+                <li>3/4 de açúcar demerara - ou outro tipo de açúcar</li>
+                <li>1 pitada de sal</li>
+                <li>1 colher (sopa) cacau em pó  - usamos o 100%</li>
+                <li>2 colheres (sopa) achocolatado - usamos o da marca Organic</li>
+                <li>1 colher (sopa) fermento químico</li>
+                <li>1/2 xícara de óleo de girassol - ou qualquer óleo vegetal</li>
+                <li>1 + 1/3  xícaras de água </li>
+                <li>1 colher (sopa) vinagre de maçã - ou de vinagre de álcool, arroz... </li>
+                <li>* 1 colher (sobremesa) de essência de baunilha  (opcional) </li>
+                <li>* Óleo e farinha para untar </li>
+                <li>* Forma pequena (18cm) - para cada massa</li>
+                
+                <h5>Creme de chocolate</h5>
+                <li> 350ml de leite de soja - ou leite de amêndoas</li>
+                <li> 4 colheres (sopa) de açúcar demerara - ou qualquer outro tipo de açúcar</li>
+                <li> 1 colher (sopa) achocolatado - usamos o da marca Organic</li>
+                <li> 1 colher (sopa) cacau - usamos 100% </li>
+                <li> 2 colheres (sopa) amido de milho + 2 colheres (sopa) de leite de soja</li>
+                    
+                <h5>Para molhar o bolo</h5>
+                <li> 1/2 xícara de leite de soja</li>
+                <li> 1 colher (sopa) de achocolatado  - usamos o da marca Organic</li>
+
+                <h5>Ganache</h5>
+                <li> 80g de chocolate meio amargo -  usamos o 70% da marca NutraWell</li>
+                <li> 10 colheres (sopa) de leite com achocolatado - feito anteriormente </li>
+                <li> * 2 bandejas de morango</li>
+                <li> * chocolate ralado ou em lascas para decorar </li>
+                <li> * açúcar de confeiteiro</li>
+                <li> * confeitos mil</li>
+            </ul>`,
         }
     ],
     "vegetarianas": [
@@ -1980,6 +3005,8 @@ var dados = {
             "imagem": "imgs/salgado1.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2025,6 +3052,8 @@ var dados = {
             "imagem": "imgs/salgado2.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2053,6 +3082,8 @@ var dados = {
             "imagem": "imgs/salgado5.jpg",
             "fonte": "Tudo Gostoso",
             "tipo": "☑️Vegetariano",
+            "temvid": "Video ▶",
+            "linkvid": "https://www.youtube.com/watch?v=8QrSJ5opAHk",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2087,24 +3118,35 @@ var dados = {
             "imagem": "imgs/doce12.jpg",
             "fonte": "PetitChef",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
-                <li>500g de ricota</li>
-                <li>1 colher de sopa de farinha de trigo</li>
-                <li>1 colher de sopa de manteiga</li>
-                <li>1 lata de leite condensado</li>
-                <li>1 medida lata de leite</li>
-                <li>3 gemas (claras separadas)</li>   
+                <p>MASSA:</p>
+                <li>1 pct (180 g) de biscoito maisena</li>
+                <li>½ xícara (chá) de manteiga sem sal</li>
+                <p>RECHEIO:</p>
+                <li>1 xícara (chá) leite frio</li>
+                <li>3 colheres sopa manteiga sem sal</li>
+                <li>1 ½ xícara (chá) de ricota amassada</li>
+                <li>1 xícara (chá) leite condensado</li>   
+                <li>3 ovos</li>  
+                <p>COBERTURA:</p>
+                <li>1 xícara (chá) geléia de damasco</li>  
+                <li>½ xícara (chá) de água</li>  
+                <li>damasco para decorar</li>  
+                <li>folhas de hortelã para decorar</li>  
             </ul>
             <h5>MODO DE PREPARO</h5>
             <ol>
-                <li>Leve ao forno em forma untada, de fundo removível, até dourar.</li>
-                <li>Na dúvida verifique com o palito, caso o mesmo saia seco, está pronto.</li>
-                <li>No meu forno, que é elétrico, levou 45 minutos a 180ºC.</li>
-                <li>Deixe esfriar e depois coloque na geladeira por umas duas horas antes de servir.</li>
-                <li>Para a cobertura podem ser utilizadas geléias de vários sabores, por exemplo: morango, framboesa, amoras, laranja, maçã,etc. </li>
-            </ol>` 
+                <li>Massa: Triture os biscoitos no liquidificador e misture a farofa obtida com a manteiga, mexendo bem com as mãos até formar uma textura homogênea.</li>
+                <li>Feito isso, disponha a massa obtida em uma forma de aro removível (25cm) e leve para assar em fogo baixo por 12 minutos. Reserve para esfriar.</li>
+                <li>Recheio: Leve ao fogo baixo o leite e a manteiga até ferver. A parte, bata no liquidificador, em velocidade alta, os ovos, a ricota, o leite condensado e o leite fervido por 3 minutos.</li>
+                <li>Cobertura: Leve ao fogo baixo a geléia de damasco e a água até dissolver. Mexa rapidamente e deixe até levantar fervura. Reserve.</li>
+                <li>Montagem: Despeje o recheio sobre a massa assada e retorno ao forno com temperatura baixa por 45 minutos.</li>
+                <li>Retire a torta do forno e espere amornar. Então, desenforme-a, distribua a cobertura por cima e decore com os damascos e folas de hortelã.</li>
+            </ol>`
         },
         {
             "id": 5,
@@ -2112,6 +3154,8 @@ var dados = {
             "imagem": "imgs/salgado8.jpg",
             "fonte": "Catraca Livre",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2130,44 +3174,16 @@ var dados = {
                 <li>Incorpore o creme de leite.</li>
                 <li>Coloque a massa cozida em um prato e distribua o creme de brie, regando com um fio de azeite.</li>
                 <li>Para finalizar, coloque cebola caramelizada no centro.</li>
-            </ol>` 
+            </ol>`
         },
         {
             "id": 6,
-            "titulo": "Escondidinho Vegetariano",
-            "imagem": "imgs/salgado9.jpg",
-            "fonte": "mundoboaforma",
-            "tipo": "☑️Vegetariano",
-            "texto": `
-            <h5>INGREDIENTES</h5>
-            <ul>
-                <li>1 maço de brócolis picado.</li>
-                <li>1/2 talo alho-poró cortado em rodelas finas.</li>
-                <li>1 vidro de palmito pequeno picado.</li>
-                <li>1 lata de milho.</li>
-                <li>Azeitonas picadas a gosto.</li>
-                <li>1 cebola picada.</li>
-                <li>1 dente de alho amassado.</li>
-                <li>1 cubo de caldo de legumes.</li>
-                <li>1/2kg de batata cozida e amassada.</li>
-                <li>1/2 xícara de chá de azeite</li>
-                <li>Parmesão ralado a gosto</li>
-            </ul>
-            <h5>MODO DE PREPARO</h5>
-            <ol>
-                <li>Cozinhe as batatas descascadas até ficar macia e esprema como purê.</li>
-                <li>Adicione o leite vegetal, margarina e sal, misture bem e reserve.</li>
-                <li>Em uma panela refogue o alho, a cebola, o alh- poró picado em rodelas, o brócolis, o milho, o palmito e as azeitonas.</li>
-                <li>Em seguida adicione o caldo de legumes. Coloque o refogado de legumes em um refratário e em seguida cubra com o purê de batatas.</li>
-                <li>Finalize com queijo parmesão ralado e leve ao forno pré-aquecido a 160ºc para gratinar.</li>
-            </ol>` 
-        },
-        {
-            "id": 7,
             "titulo": "Berinjela Recheada",
             "imagem": "imgs/salgado10.jpg",
             "fonte": "mundoboaforma",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2186,14 +3202,16 @@ var dados = {
                 <li>Corte a berinjela em 4 rodelas iguais. Apoie as rodelas em uma tábua e retire o miolo com a ajuda de uma colher.</li>
                 <li>Tempere o interior com sal e distribua o recheio na cavidade de cada berinjela.</li>
                 <li>Leve as berinjelas para assar em assadeira untada com azeite e coberta com papel-alumínio em forno, pré-aquecido, a 180ºC por cerca de 30 minutos. Quando estiver macia, retire e sirva.</li>
-            </ol>` 
+            </ol>`
         },
         {
-            "id": 8,
+            "id": 7,
             "titulo": "Feijoada Vegetariana",
             "imagem": "imgs/salgado11.jpg",
             "fonte": "Gshow",
             "tipo": "☑️Vegetariano",
+            "temvid": "Sem video",
+            "linkvid": "#",
             "texto": `
             <h5>INGREDIENTES</h5>
             <ul>
@@ -2219,73 +3237,10 @@ var dados = {
                 <li>Em uma panela, coloca a cebola e o óleo para fritar. Em seguida, adicione a berinjela, a abobrinha, os pimentões, a vagem, a cenoura e as batatas cortadas em cubinhos e os cubos de caldo de legumes e refogue por alguns minutos. Pode ser adicionado 1/2 xicara de água para ajudar no cozimento.</li>
                 <li>Depois que os vegetais estiverem "al dente", adicione o feijão cozido, as salsichas em fatias, a proteina de soja desidratada e as folhas de louro e coloque o sal a gosto. Deixe ferver por alguns minutos para que o feijão absorva o sabor dos vegetais e do louro.</li>
                 <li>Depois de cozido, retire a panela do fogo e antes de servir, adicione o queijo provolone defumado em cubinhos e de uma leve mexida na panela para misturar um pouco o queijo. Está pronta a feijoada!! E só servir com arroz branco e couve refogada. Vale a pena experimentar, pois ó maravilhosa!!</li>
-            </ol>` 
+            </ol>`
         }
 
     ],
-    "videos": [
-        {
-            "id":1,
-            "titulo":"Lasanha vegana",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/O0Hq9aikuFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":2,
-            "titulo":"Escondidinho vegano",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/8KGfE3cqZjI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        
-        },
-        {
-            "id":3,
-            "titulo":"Risoto de legumes vegano",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/F9aTQu6NrjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":4,
-            "titulo":"Pizza de frigideira vegana e sem glúten",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/uQFN3uykRnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":5,
-            "titulo":"Estrogonofe vegetariano de cogumelos e palmito",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/Hih9D7zOIKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":6,
-            "titulo":"Coxinha Vegana",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/RFUtpFElgJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":7,
-            "titulo":"Sopa de Cebola",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/fUvMTQdAYMs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":8,
-            "titulo":"Salada sem graça nunca mais!",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/1jbFqjZrOBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":9,
-            "titulo":"Bolo de Festa Vegano",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/K-jFRPqIKXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":10,
-            "titulo":"Mousses Veganos em apenas 5 minutos!",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/84M4-OgqGJ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":11,
-            "titulo":"Hamburguer Vegetariano",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/9YjlGzhLy9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-        {
-            "id":12,
-            "titulo":"Nuggets Vegano",
-            "url":`<iframe width="560" height="315" src="https://www.youtube.com/embed/Im27PTOWxkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>`
-        },
-    ]
 }
 
 function exibeReceitas() {
@@ -2340,19 +3295,6 @@ window.onload = exibeReceitas();
 document.getElementById('btnTudo').addEventListener('click', exibeReceitas);
 console.log(i);
 
-/*function executaPesquisa() {
-    let query = document.getElementById('txtPesquisa').value;
-
-    let xhr = new XMLHttpRequest(),
-        receitas = {};
-    xhr.onload = exibeReceitas;
-    xhr.open('GET', dados.receitas.titulo=query);
-    xhr.send();
-}
-
-document.getElementById('btnPesquisa').addEventListener('click', executaPesquisa);*/
-
-
 function exibeSalgados() {
     var elemMain = document.getElementById('tela');
     var textoHTML = '';
@@ -2367,6 +3309,7 @@ function exibeSalgados() {
                 <img class="thumbnail" src="${salgado.imagem}" alt="">
                 <div class="creditos"><span>Fonte: ${salgado.fonte}</span></div>
                 <div><p class="tipo">${salgado.tipo}</p></div>
+                <div><a href="${salgado.linkvid}" class="btnvid">${salgado.temvid}</a></div>
                 <button id="btnModal" type="button" class="btnModal" data-toggle="modal"
                 data-target="#Modal${salgado.id}">
                 <a href="#" class="card-text">Ver receita</a>
@@ -2418,6 +3361,7 @@ function exibeDoces() {
                 <img class="thumbnail" src="${doce.imagem}" alt="">
                 <div class="creditos"><span>Fonte: ${doce.fonte}</span></div>
                 <div><p class="tipo">${doce.tipo}</p></div>
+                <div><a href="${doce.linkvid}" class="btnvid">${doce.temvid}</a></div>
                 <button id="btnModal" type="button" class="btnModal" data-toggle="modal"
                 data-target="#Modal${doce.id}">
                 <a href="#" class="card-text">Ver receita</a>
@@ -2468,6 +3412,7 @@ function exibeVeganas() {
                 <img class="thumbnail" src="${vegana.imagem}" alt="">
                 <div class="creditos"><span>Fonte: ${vegana.fonte}</span></div>
                 <div><p class="tipo">${vegana.tipo}</p></div>
+                <div><a href="${vegana.linkvid}" class="btnvid">${vegana.temvid}</a></div>
                 <button id="btnModal" type="button" class="btnModal" data-toggle="modal"
                 data-target="#Modal${vegana.id}">
                 <a href="#" class="card-text">Ver receita</a>
@@ -2518,6 +3463,7 @@ function exibeVegetarianas() {
                 <img class="thumbnail" src="${vegetariana.imagem}" alt="">
                 <div class="creditos"><span>Fonte: ${vegetariana.fonte}</span></div>
                 <div><p class="tipo">${vegetariana.tipo}</p></div>
+                <div><a href="${vegetariana.linkvid}" class="btnvid">${vegetariana.temvid}</a></div>
                 <button id="btnModal" type="button" class="btnModal" data-toggle="modal"
                 data-target="#Modal${vegetariana.id}">
                 <a href="#" class="card-text">Ver receita</a>
@@ -2552,29 +3498,3 @@ function exibeVegetarianas() {
 }
 
 document.getElementById('btnVegetarianas').addEventListener('click', exibeVegetarianas);
-
-
-/*function exibeVideos() {
-    var elemMain = document.getElementById('tela');
-    var textoHTML = '';
-
-    for (i = 0; i < dados.videos.length; i++) {
-
-        var video = dados.videos[i];
-
-        textoHTML = textoHTML + `
-        <div id="box-videos">
-            <h4>${video.titulo}</h4>
-            <div class="video-block">
-                <div class="embed-responsive embed-responsive-4by3">
-                    ${video.url}
-                </div>
-            </div>
-        </div>
-        `;
-    };
-
-    elemMain.innerHTML = textoHTML;
-}
-
-document.getElementById('btnVideos').addEventListener('click', exibeVideos);*/

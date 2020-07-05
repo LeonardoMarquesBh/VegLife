@@ -6,6 +6,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!--itens footer-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -32,12 +37,12 @@
             <li>
                 <a href="index.html">Home</a>
             </li>
-            <li>
+            <li class="active">
                 <a href="quemsomos.html">Quem Somos</a>
             </li>
 
             <li>
-                <a class="active" href="#">Serviços</a>
+                <a href="#">Serviços</a>
                 <ul>
                     <li>
                         <a href="receitas.html">Receitas</a>
@@ -46,124 +51,166 @@
                         <a href="restaurantes.html">Restaurantes</a>
                     </li>
                     <li>
-                        <a href="receitas.html">Produtos</a>
+                        <a href="produtos.html">Produtos</a>
                     </li>
                 </ul>
             </li>
-            <li>
+            <!--<li>
                 <a href="#">Login</a>
             </li>
             <li>
                 <a href="#">Ajuda</a>
-            </li>
+            </li>-->
         </ul>
+        <div class="burger">
+            <div class="line1"></div>
+            <div class="line2"></div>
+            <div class="line3"></div>
+        </div>
     </nav>
     <div class="aboutus-secktion paddingTB60">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h1>Quem somos e o que fazemos?</h1>
-                    <p>O Projeto VegLife nasceu no primeiro período do curso de Engenharia de Software da PUC-Minas para a disciplina trabalho interdisciplinar!
-                        É um projeto muito bacana que auxilia os alunos a colocarem em prática os conhecimentos aprendidos no semestre letivo!
+                    <p>O Projeto VegLife nasceu no primeiro período do curso de Engenharia de Software da PUC-Minas para
+                        a disciplina trabalho interdisciplinar!
+                        É um projeto muito bacana que auxilia os alunos a colocarem em prática os conhecimentos
+                        aprendidos no semestre letivo!
                     </p>
                     <p>Tem alguma sugestão? É só mandar pra gente! Entre em contato conosco em veglife@gmail.com!</p>
                 </div>
                 <div class="col-md-6">
-                    <p>Nós queremos ajudar a comunidade vegana e vegetariana! Como? Muito simples! Precisa cozinhar em casa? Temos receitas variadas por aqui, muitos doces, salgados, etc (muitas sem ingredientes como leite e ovos para os Veganos!). 
-                        Precisa sair para comer ou pedir um delivery? Nós da VegLife te indicamos os restaurantes perfeitos para sua dieta alimentar. Não sabe onde comprar seus produtos veg? Só dar um clique na nossa aba de produtos que 
+                    <p>Nós queremos ajudar a comunidade vegana e vegetariana! Como? Muito simples! Precisa cozinhar em
+                        casa? Temos receitas variadas por aqui, muitos doces, salgados, etc (muitas sem ingredientes
+                        como leite e ovos para os Veganos!).
+                        Precisa sair para comer ou pedir um delivery? Nós da VegLife te indicamos os restaurantes
+                        perfeitos para sua dieta alimentar. Não sabe onde comprar seus produtos veg? Só dar um clique na
+                        nossa aba de produtos que
                         listamos as lojinhas e mercados por bairro!
                     </p>
-                    
+
                 </div>
             </div>
         </div>
     </div>
- 
+
     <div class="container team-sektion paddingTB60">
         <div>
-            <div class="col-md-12">
                 <h3 class="time">Nosso Time</h3>
                 <div class="border"></div>
-            </div>
         </div>
         <div class="row">
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box ">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team1.png">
+                    <img src="/imgs/team1.png">
                     <div class="team-content">
-                        <h3 class="nome">Isabel P.Matos</h3>
+                        <h3 class="nome">Isabel P. Matos</h3>
                         <div class="border-team"></div>
                         <p>Graduanda em Engenharia de Software pela Pontifíca Universidade Católica de Minas Gerais.
-                        Atuou como Product Owner da equipe pelo método SCRUM e como desenvolvedora.
+                            Atuou como Product Owner da equipe pelo método SCRUM e como desenvolvedora.
                         </p>
-                    
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team2.png">
+                    <img src="/imgs/team2.png">
                     <div class="team-content">
                         <h3 class="nome">Júlia F. G. Prado</h3>
                         <div class="border-team"></div>
                         <p>Graduanda em Engenharia de Software pela Pontifíca Universidade Católica de Minas Gerais.
-                        Atuou como SCRUM Master da equipe pelo método SCRUM e na equipe de desenvolviemnto.</p>
+                            Atuou como SCRUM Master da equipe pelo método SCRUM e na equipe de desenvolviemnto.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team3.png">
+                    <img src="/imgs/team3.png">
                     <div class="team-content">
                         <h3 class="nome">Júlia M. Reis</h3>
                         <div class="border-team"></div>
                         <p>Graduanda em Engenharia de Software pela Pontifíca Universidade Católica de Minas Gerais.
-                        Atuou na equipe de desenvolvimento e apoio na busca de dados.</p>
+                            Atuou na equipe de desenvolvimento e apoio na busca de dados.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team4.png">
+                    <img src="/imgs/team4.png">
                     <div class="team-content">
                         <h3 class="nome">Leonardo F. Marques</h3>
                         <div class="border-team"></div>
                         <p>Graduando em Engenharia de Software pela Pontifíca Universidade Católica de Minas Gerais.
-                        Atuou de forma principal na equipe de desenvolvimento do projeto.</p>
+                            Atuou de forma principal na equipe de desenvolvimento do projeto.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team5.png">
+                    <img src="/imgs/team5.png">
                     <div class="team-content">
                         <h3 class="nome">Pedro Henrique M. Marques</h3>
                         <div class="border-team"></div>
                         <p>Graduando em Engenharia de Software pela Pontifíca Universidade Católica de Minas Gerais.
-                        Atuou na equipe de desenvolvimento e na hospedagem do site.</p>
+                            Atuou na equipe de desenvolvimento e na hospedagem do site.</p>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 team-box">
+            <div class="col-sm-12 col-md-6 col-lg-4 team-box">
                 <div class="team-img thumbnail">
-                    <img
-                        src="/imgs/team6.png">
+                    <img src="/imgs/team6.png">
                     <div class="team-content">
                         <h3 class="nome">PUC MINAS</h3>
                         <div class="border-team"></div>
-                        <p>Instituição de Ensino. Os professores responsáveis pela disciplina de Trabalho interdisciplinar
-                        orientaram a idealização, escopo, orgranização e desenvolvimento deste projeto.</p>
+                        <p>Instituição de Ensino. Os professores responsáveis pela disciplina de Trabalho
+                            interdisciplinar
+                            orientaram a idealização, escopo, organização e desenvolvimento deste projeto.</p>
                     </div>
                 </div>
             </div>
 
         </div>
     </div>
+
+    <!-- Footer -->
+	<section id="footer">
+		<div class="container">
+			<div class="row text-center text-xs-center text-sm-left text-md-left">
+                
+                <div class="col-xs-12 col-sm-4 col-md-4">
+					<h3>Quick links</h3>
+					<ul class="list-unstyled quick-links">
+						<li><a href="index.html"><i class="fa fa-angle-double-right"></i>Home</a></li>
+                        <li><a href="quemsomos.html"><i class="fa fa-angle-double-right"></i>Quem Somos</a></li>
+                        <li><a href="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><i class="fa fa-angle-double-right"></i>Contato: veglife@gmail.com</veglife@gmail></a></li>
+					</ul>
+				</div>
+				<div class="col-xs-12 col-sm-4 col-md-4">
+					<h3>Serviços</h3>
+					<ul class="list-unstyled quick-links">
+						<li><a href="receitas.html"><i class="fa fa-angle-double-right"></i>Receitas</a></li>
+						<li><a href="restaurantes.html"><i class="fa fa-angle-double-right"></i>Restaurantes</a></li>
+						<li><a href="produtos.html"><i class="fa fa-angle-double-right"></i>Produtos</a></li>
+					</ul>
+                </div>
+                <div class="col-xs-12 col-sm-4 col-md-4">
+                    <img class="imgfooter" src="imgs/logositeVeglife.png" alt="">
+                </div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
+					<p><a href="https://www.pucminas.br/destaques/Paginas/default.aspx">Puc-Minas</a></p>
+					<p class="h6">© All right Reversed.<a class="text-green ml-2" href="#" target="_blank">Sunlimetech</a></p>
+				</div>
+				<hr>
+			</div>	
+		</div>
+	</section>
+	<!-- ./Footer -->
+
+    <script src="app.js"></script>
+
 </body>
 
 </html>

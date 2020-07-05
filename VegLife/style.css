@@ -130,7 +130,7 @@ nav{
 
 .HomeImage img{
     position: relative;
-    left: 19%;
+    left: 23%;
     top: 1%;
     max-width:800px;
     max-height: 800px;
@@ -138,24 +138,22 @@ nav{
 
 .HomeSalada img{
     position: absolute;
-    left: 70%;
+    left: 75%;
     top: 10%;
-    max-width:200;
     max-height: 300px;
 }
 
 .HomeSalada2 img{
     position: absolute;
-    left: 2%;
-    top: 35%;
-    max-width:220;
-    max-height: 220px;
+    left: 6%;
+    top: 40%;
+    width:200px;
     transform: rotate(15deg);
 }
 
 .HomePoint img{
     position: absolute;
-    left: 6%;
+    left: 10%;
     top: 15%;
     max-width:190;
     max-height: 190px;
@@ -173,21 +171,21 @@ body{
 @media screen and (max-width:1460px)
 {
     .HomeImage img{
-        left: 17%;
+        left: 20%;
     }
 }
 
 @media screen and (max-width:1360px)
 {
     .HomeImage img{
-        left: 14%;
+        left: 18%;
     }
 }
 
 @media screen and (max-width:1280px)
 {
     .HomeImage img{
-        left: 10%;
+        left: 13%;
     }
 
     .HomePoint{
@@ -195,29 +193,20 @@ body{
     }
 }
 
-@media screen and (max-width:1210px)
-{
-    .HomeSalada img{
-        left: 75%;
-    }
-
-}
-
 @media screen and (max-width:1125px)
 {
     .HomeSalada img{
         max-width: 250px;
-        top: 16%;
+        top: 11%;
     }
 
     .HomeImage img{
         max-width: 700px;
-        left: 14%;
     }
 
     .HomeSalada2 img{
         max-width: 180px;
-        top: 30%;
+        top: 35%;
     }
 }
 
@@ -328,7 +317,7 @@ body{
     .nav-links{
         position: absolute;
         right: 0px;
-        height: 80vh;
+        height: 50vh;
         top: 8vh;
         background-color:#007944;
         display: flex;
@@ -338,6 +327,7 @@ body{
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
         z-index: 100;
+        padding: 30px;
     }
     .nav-links li{
         opacity: 1;
@@ -361,105 +351,32 @@ body{
     transform: rotate(45deg) translate(-5px,-6px);
 }
 
-
-
 /*cards*/
 
-#home_quicklinks {
-    padding: 20px 0;
+#homeLinks {
+    padding: 80px 0;
     text-align: center;
 }
-a.quicklink.link1 {
-    background: #f35588;
-}
-a.quicklink {
+
+#homeLinks .btnHome{
+    border-color: #f35588;
+    border-style: solid;
+    border-radius: 20%;
+    background-color: #f35588;
+    color: white;
     display: inline-block;
-    width: 200px;
-    height: 100px;
-    position: relative;
-    margin: 60px 10px;
-}
-a.quicklink .ql_caption {
-    display: block;
-    height: 100%;
-    width: 100%;
-    position: relative;
-}
-.outer {
-    display: table;
-    position: relative;
+    width: 210px;
+    height: 200px;
+    min-height: 210px;
+    margin: 10px;
     vertical-align: middle;
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    border-spacing: 0px;
-    padding: 0px;
-}
-.inner {
-    display: table-cell;
-    position: relative;
-    vertical-align: middle;
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    border-spacing: 0px;
-    padding: 0px;
-}
-a.quicklink .ql_caption h4 {
-    margin: 0px;
-    padding: 0px;
-    text-transform: uppercase;
-    line-height: 1.46em;
-    color: #fff;
-}
-a.quicklink.link1 .ql_top {
-    border-bottom-color: #f35588;
-}
-a.quicklink.link1 .ql_bottom {
-    border-top-color:#f35588;
 }
 
-
-.ql_top {
-    bottom: 100px;
-    border-bottom: 60px solid #ccc;
-}
-.ql_bottom {
-    top: 100px;
-    border-top: 60px solid #ccc;
-}
-.ql_top, .ql_bottom {
-    position: absolute;
-    left: 0px;
-    width: 0px;
-    border-left: 100px solid transparent;
-    border-right:100px solid transparent;
-}
-
-a.quicklink.link2 {
-    background:#f35588;
-}
-a.quicklink.link2 .ql_top {
-    border-bottom-color: #f35588;
-}
-a.quicklink.link2 .ql_bottom {
-    border-top-color: #f35588;
-}
-
-
-a.quicklink.link3 .ql_top {
-    border-bottom-color: #f35588;
-}
-a.quicklink.link3 .ql_bottom {
-    border-top-color: #f35588;
-}
-a.quicklink.link3 {
-    background: #f35588;
-}
-a.quicklink {
-    font-size: 36px;
-    font-weight: 500;
-    text-decoration:none;
+#homeLinks .btnHome .txtHomeLinks{
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+    font-size: 20px;
 }
 
 /*modal*/
@@ -488,13 +405,13 @@ a.quicklink {
 
 .box-receita{
     display: inline-block;
-    position: relative;
     width: 440px;
     min-height: 210px;
     border-style: solid;
     border-color: #007944;
     margin: 10px;
     background-color: #93b984;
+    vertical-align: middle;
 }
 
 .box-receita .thumbnail{
@@ -533,20 +450,6 @@ a.quicklink {
 }
 
 
-/*Pesquisa
-
-#buscaReceitas #btnPesquisa{
-    color: black;
-    background-color: white;
-    width: 40px;
-}
-
-#buscaReceitas{
-    float: right;
-}*/
-
-/*categorias*/
-
 #categorias button{
     width: 120px;
     color: white;
@@ -560,27 +463,6 @@ a.quicklink {
     height: 2px;
 }
 
-/*videos*/
-
-#box-videos{
-    display: inline-block;
-    position: relative;
-    width: 330px;
-    min-height: 210px;
-    border-style: solid;
-    border-color: #007944;
-    margin: 10px;
-    background-color: #93b984;
-}
-
-#box-videos h4{
-    margin: 10px;
-}
-
-#box-videos .video-block{
-    width: 300px;
-    margin: 10px;
-}
 
 /*CSS para a página de restaurantes*/
 
@@ -597,7 +479,6 @@ a.quicklink {
     border-radius:4px;
     display:inline-block;
     cursor:pointer;
-    font-family:Verdana;
     font-weight:bold;
     font-size:13px;
     padding:6px 10px;
@@ -625,7 +506,7 @@ a.quicklink {
     padding-bottom: 33px;
 }
 
- .cta-padding35 {
+.cta-padding35 {
     padding: 35px 0 35px;
     background-color: #b40028;
     color:whitesmoke;
@@ -668,9 +549,9 @@ a.quicklink {
 
 .thumbnail {
     display: inline-block;
-    display: block;
     height: auto;
-    max-width: 100%;
+    max-width: 350px;
+    margin: 5px;
     padding: 4px;
     line-height: 1.428571429;
     background-color:whitesmoke;
@@ -717,11 +598,12 @@ h3 {
     font-style: normal;
     color: #000;
 }
- h4 { font-size: 19px; 
-     letter-spacing: 0px; 
-     font-weight: 600;
-     font-style: normal;
-     color: #000;
+ h4 { 
+    font-size: 19px; 
+    letter-spacing: 0px; 
+    font-weight: 600;
+    font-style: normal;
+    color: #000;
 }
 
 p {
@@ -745,18 +627,93 @@ i {
 }
 
 
-@media (max-width: 767px) {
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+
+/* Footer */
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background-color: #007944 !important;
+}
+#footer h5{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 6px;
+    margin-bottom: -20px;
+    color:#ffffff;
+}
+
+#footer h3{
+	padding-left: 10px;
+    border-left: 3px solid #eeeeee;
+    padding-bottom: 0px;
+    margin-bottom: -20px;
+    color:#ffffff;
+}
+
+#footer a {
     color: #ffffff;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover,
-  .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #b40028;
-  }
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
-  .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #b40028;
-    background-color: #011034;
-  }
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+    margin-bottom: -30px;
+}
+#footer ul.social li{
+	padding: 3px 0;
+}
+#footer ul.social li a i {
+    margin-right: 5px;
+	font-size:20px;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.social li:hover a i {
+	font-size:30px;
+	margin-top:-10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a{
+	color:#ffffff;
+}
+#footer ul.social li a:hover{
+	color:#eeeeee;
+}
+#footer ul.quick-links li{
+	padding: 0 0;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.quick-links li:hover{
+	padding: 3px 0;
+	margin-left:5px;
+	font-weight:700;
+}
+#footer ul.quick-links li a i{
+	margin-right: 5px;
+}
+#footer ul.quick-links li:hover a i {
+    font-weight: 700;
+}
+
+@media (max-width:767px){
+	#footer h5 {
+        padding-left: 0;
+        border-left: transparent;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+    }
+}
+
+.imgfooter{
+    width: 140px;
 }
