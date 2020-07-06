@@ -302,7 +302,7 @@ body{
 @media screen and (max-width:470px)
 {
     .HomeImage img{
-        max-width: 200px;
+        max-width: 300px;
     }
 }
 
@@ -738,7 +738,21 @@ section .section-title {
 
 @media only screen and (min-width: 0px) and (max-width: 467px) {
 
+    .table th{
+        font-size: smaller;
+        padding: 0px;
+        margin-right: 0px;
+    }
 
+    .table td{
+        font-size: smaller;
+    }
+
+    .table td button{
+        font-size: smaller;
+        padding: 2px;
+        margin: -5px;
+    }
 
     .sumir{
         display: none;
@@ -747,7 +761,6 @@ section .section-title {
 }
 
 @media only screen and (min-width: 468px) and (max-width: 900px) {
-
 
     .sumir{
         display: none;
