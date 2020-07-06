@@ -112,9 +112,9 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">Nome</th>
-                            <th scope="col">Telefone</th>
-                            <th scope="col">Endereço</th>
-                            <th scope="col">Bairro</th>
+                            <th class = "sumir" scope="col">Telefone</th>
+                            <th class = "sumir" scope="col">Endereço</th>
+                            <th class = "sumir" scope="col">Bairro</th>
                             <th scope="col">Categoria</th>
                             <th scope="col">Navegar</th>
 
@@ -154,8 +154,8 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
-					<p><a href="https://www.pucminas.br/destaques/Paginas/default.aspx">Puc-Minas</a></p>
-					<p class="h6">© All right Reversed.<a class="text-green ml-2" href="#" target="_blank">Sunlimetech</a></p>
+					
+					<p class="h6">© Todos os direitos reservados.<a class="text-green ml-2" href="#" target="_blank">VegLife/</a><a class="h6" href="https://www.pucminas.br/destaques/Paginas/default.aspx">Puc-MINAS</a></p>
 				</div>
 				<hr>
 			</div>	
@@ -189,9 +189,9 @@
                 // Inclui o contato na tabela    
                 $("#table-contatos").append(`<tr><td scope="row">${contato.id}</td>
                 <td>${contato.nome}</td>
-                <td>${contato.telefone}</td>
-                <td>${contato.email}</td>
-                <td>${contato.cidade}</td>
+                <td class="sumir">${contato.telefone}</td>
+                <td class="sumir">${contato.email}</td>
+                <td class="sumir">${contato.cidade}</td>
                 <td>${contato.categoria}</td>
                 <td><button class="NavId" href="#" onclick="abreLink('https://www.google.com/maps/place/${contato.email},+-+${contato.cidade},+Belo+Horizonte+-+MG');">Navegar</button></td>
                 </tr>`);

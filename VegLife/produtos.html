@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="style.css">
 
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Restaurantes</title>
+    <title>Produtos</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
 
@@ -64,7 +64,7 @@
             <div class="line3"></div>
         </div>
     </nav>
-    <h1 class="titulorest">Onde achar produtos em Belo Horizonte</h1>
+    <h1 class="titulorest">Encontre produtos em Belo Horizonte!</h1>
 
     <div class="container">
         <div class="row">
@@ -77,29 +77,39 @@
                 <div class="col-sm-4">
                     <select name="filtro_cidade" id="filtro_cidade" onchange="ListaContatos()" class="form-control">
                         <option value="">Selecione o Bairro</option>
+                        <option value="Anchieta">Anchieta</option>
                         <option value="Barro Preto">Barro Preto</option>
+                        <option value="Belvedere">Belvedere</option>
+                        <option value="Buritis">Buritis</option>
+                        <option value="Caiçara">Caiçara</option>
+                        <option value="Castelo">Castelo</option>
                         <option value="Centro">Centro</option>
                         <option value="Cidade Nova">Cidade Nova</option>
                         <option value="Cruzeiro">Cruzeiro</option>
-                        <option value="Floresta">Floresta</option>
                         <option value="Funcionários">Funcionários</option>
                         <option value="Gutierrez">Gutierrez</option>
-                        <option value="Horto">Nova Suíça</option>
+                        <option value="Jardim América">Jardim América</option>
+                        <option value="Jardim Canadá">Jardim Canadá</option>
                         <option value="Lourdes">Lourdes</option>
-                        <option value="Nova Suíça">Nova Suíça</option>
-                        <option value="Padre Eustáquio">Padre Eustáquio</option>
-                        <option value="Santo Agostinho">Santo Agostinho</option>
+                        <option value="Nova Esperança">Nova Esperança</option>
+                        <option value="Pampulha">Pampulha</option>
+                        <option value="Santa Lúcia">Santa Lúcia</option>
+                        <option value="Santa Efigênia">Santa Efigênia</option>
+                        <option value="Santo Antônio">Santo Antônio</option>
                         <option value="São Pedro">São Pedro</option>
                         <option value="Savassi">Savassi</option>
+                        <option value="Serra">Serra</option>
                         <option value="Sion">Sion</option>
+                        <option value="União">União</option>
                     </select>
                 </div>
                 <div class="col-sm-8">
                     <select name="filtro_categoria" id="filtro_categoria" onchange="ListaContatos()"
                         class="form-control">
                         <option value="">Selecione a Categoria</option>
-                        <option value="Vegetariano">Vegetariano</option>
-                        <option value="Vegano">Vegano</option>
+                        <option value="Mercado">Mercado</option>
+                        <option value="Loja">Loja</option>
+                        <option value="Supermercado">Supermercado</option>
                     </select>
                 </div>
             </div>
@@ -113,9 +123,9 @@
                         <tr>
                             <th scope="col">#</th>
                             <th scope="col">Nome</th>
-                            <th scope="col">Telefone</th>
-                            <th scope="col">Endereço</th>
-                            <th scope="col">Bairro</th>
+                            <th class="sumir" scope="col">Telefone</th>
+                            <th class="sumir" scope="col">Endereço</th>
+                            <th class="sumir" scope="col">Bairro</th>
                             <th scope="col">Categoria</th>
                             <th scope="col">Navegar</th>
 
@@ -155,8 +165,8 @@
 			</div>
 			<div class="row">
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center text-white">
-					<p><a href="https://www.pucminas.br/destaques/Paginas/default.aspx">Puc-Minas</a></p>
-					<p class="h6">© All right Reversed.<a class="text-green ml-2" href="#" target="_blank">Sunlimetech</a></p>
+					<p></p>
+                    <p class="h6">© Todos os direitos reservados.<a class="text-green ml-2" href="#" target="_blank">VegLife/</a><a class="h6" href="https://www.pucminas.br/destaques/Paginas/default.aspx">Puc-MINAS</a></p>
 				</div>
 				<hr>
 			</div>	
@@ -167,7 +177,7 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="apprest.js"></script>
+<script src="appprod.js"></script>
 <script>
     // função para listar na tabela os contatos que estão associados aos filtros 
     function ListaContatos() {
@@ -190,9 +200,9 @@
                 // Inclui o contato na tabela    
                 $("#table-contatos").append(`<tr><td scope="row">${contato.id}</td>
                 <td>${contato.nome}</td>
-                <td>${contato.telefone}</td>
-                <td>${contato.email}</td>
-                <td>${contato.cidade}</td>
+                <td class="sumir">${contato.telefone}</td>
+                <td class="sumir">${contato.email}</td>
+                <td class="sumir">${contato.cidade}</td>
                 <td>${contato.categoria}</td>
                 <td><button class="NavId" href="#" onclick="abreLink('https://www.google.com/maps/place/${contato.email},+-+${contato.cidade},+Belo+Horizonte+-+MG');">Navegar</button></td>
                 </tr>`);

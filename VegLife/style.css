@@ -705,6 +705,10 @@ section .section-title {
     font-weight: 700;
 }
 
+.h6{
+    text-align: center;
+}
+
 @media (max-width:767px){
 	#footer h5 {
         padding-left: 0;
@@ -717,3 +721,36 @@ section .section-title {
 .imgfooter{
     width: 140px;
 }
+
+.table {
+    overflow-x: auto;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color:transparent;
+}
+
+.table td {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 467px) {
+
+
+
+    .sumir{
+        display: none;
+    }
+
+}
+
+@media only screen and (min-width: 468px) and (max-width: 900px) {
+
+
+    .sumir{
+        display: none;
+    }
+}
+ 
